@@ -1,0 +1,34 @@
+<!--
+  Generated template for the SelsezPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+  <ion-navbar>
+    <ion-title>Seleziona Sezione - {{myscool?.indirizzo.nome}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-list>
+    <ion-item *ngFor="let item of list;let i=index" (click)="goClasse(item)" text-wrap>
+      <ion-row class="row_action">
+        <ion-grid>
+          <ion-row>
+            <ion-col col-9 class="nome">
+              Sezione {{item?.nome}}
+            </ion-col>
+            <ion-col col-3 class="voti">
+              <ion-icon class="arrow_right" name="ios-arrow-forward"></ion-icon>
+            </ion-col>
+            <ion-col col-12 class="col_info">
+
+            </ion-col>
+
+          </ion-row>
+        </ion-grid>
+      </ion-row>
+    </ion-item>
+  </ion-list>
+</ion-content>

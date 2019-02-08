@@ -1,0 +1,57 @@
+<!--
+  Generated template for the MenuclassePage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>{{myscool?.scuola.nome}}
+      <BR>
+      {{myscool?.indirizzo.nome}} - Classe {{myscool?.classe.nome}} Sez. {{myscool?.sezione.nome}}
+    </ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <ion-row>
+    <ion-col col-6 (click)="alunni()">
+      <img class="image-attributes" data-src="" src="assets/images/menu1.png" />
+      <div text-center class="text-attributes">Alunni</div>
+    </ion-col>
+    <ion-col col-6 (click)="comunicazioni()">
+      <img class="image-attributes" data-src="" src="assets/images/menu2.png" />
+      <div text-center class="text-attributes">Comunicazioni</div>
+    </ion-col>
+  </ion-row>
+  <ion-row>
+    <ion-col col-6 (click)="eventi()">
+      <img class="image-attributes" data-src="" src="assets/images/menu3.png" />
+      <div text-center class="text-attributes">Eventi</div>
+    </ion-col>
+    <ion-col col-6 (click)="genitori()">
+      <img class="image-attributes" data-src="" src="assets/images/menu4.png" />
+      <div text-center class="text-attributes">Genitori</div>
+      <ion-badge class="babge-attributes" *ngIf="friendRequestCount > 0">{{friendRequestCount}}</ion-badge>
+    </ion-col>
+  </ion-row>
+  <!--ion-row>
+    <ion-col col-6 (click)="friends()">
+      <img data-src="" src="assets/images/menu1.png"/>
+      </ion-col>
+    <ion-col col-6 (click)="messages()">
+      <img data-src="" src="assets/images/menu1.png"/>
+      </ion-col>
+  </ion-row>
+  <ion-row>
+    <ion-col col-6 (click)="groups()">
+      <img data-src="" src="assets/images/menu1.png"/>
+    </ion-col>
+    <ion-col col-6 (click)="messages()">
+      <img data-src="" src="assets/images/menu1.png"/>
+    </ion-col>
+  </ion-row-->
+</ion-content>

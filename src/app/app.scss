@@ -1,0 +1,366 @@
+
+//Add class="no-scroll" on <ion-content> to disable scrolling
+.no-scroll .scroll-content {
+  overflow: hidden;
+}
+
+//Center Class to align content to center.
+.center {
+  text-align: center;
+}
+.tabs-ios .tabbar{
+  background: #fff;
+}
+.tabs-ios .tab-button[aria-selected=true] .tab-button-icon{
+  color: $primary;
+}
+
+.tabs-ios .tab-button[aria-selected=true]{
+  color: $primary;
+  border-bottom: 2px solid $primary;
+}
+
+.segment-ios .segment-button{
+  border-color: $primary;
+  color:$primary;
+}
+.segment-ios .segment-button.segment-activated{
+  background: $primary;
+}
+
+.header-ios .toolbar-background-ios, .footer-ios .toolbar-background-ios{
+  border-style: none;
+}
+.top{
+  background: $primary;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  color: #fff;
+}
+.top img{
+  height: 80px;
+  width: 80px;
+}
+a{
+  color: #222;
+}
+
+.chatbox{
+  padding:3px;
+  border-radius: 5px;
+  max-width: 70%;
+  min-width: 70%;
+  margin: 5px;
+}
+.chatbox span{
+  font-size: 12px;
+}
+.right{
+  border-radius: 5px;
+  background: $chat-right-bg;
+  color: $chat-right-color;
+  float: right;
+  text-align: right;
+  padding-right: 5px
+}
+.left{
+  border-radius: 5px;
+  background: $chat-left-bg;
+  color:$chat-left-color;
+  float: left;
+  text-align: left;
+  padding-left: 5px
+}
+video{
+  background: $chat-left-bg;
+  border-radius: 5px;
+}
+
+//Empty List
+.empty-list {
+  position: absolute;
+  top: 20%;
+  width: 100%;
+  text-align: center;
+
+  h1,
+  p {
+    color: $gray;
+  }
+
+  h1 {
+    font-size: 3em;
+  }
+
+  p {
+    font-size: 1.125em;
+    width: 70vw;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  button {
+    background: $dark;
+  }
+
+  button.activated,
+  button:active {
+    background: $dark-active;
+  }
+}
+
+
+//Footer Bar for message.html and group.html
+ion-footer.footer {
+  background-position: initial initial;
+  background-repeat: initial initial;
+}
+
+.bottom_bar {
+  padding-top: 0.25em;
+  // padding-bottom: 0.25em;
+  border-top: 1px solid #e1e1e1;
+
+  ion-textarea {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 12px;
+    border-radius: 0.75em;
+  }
+
+  button ion-icon {
+    font-size: 2em !important;
+    color: $primary;
+  }
+}
+
+
+@font-face{
+  font-family: 'dis_md';
+  src: url('../assets/font/SF-UI-Display-Medium.otf');
+}
+@font-face{
+  font-family: 'dis_reg';
+  src: url('../assets/font/SF-UI-Display-Regular.otf');
+}
+@font-face{
+  font-family: 'dis_bold';
+  src: url('../assets/font/SF-UI-Display-Bold.otf');
+}
+.width_100{
+  width: 100%;
+}
+.txt_alcen{
+  text-align: center;
+}
+.txt_alle{
+  text-align: left;
+}
+.txt_alri{
+  text-align: right;
+}
+.margin_leri_au{
+  margin-left: auto;
+  margin-right: auto;
+}
+.float_le{
+  float: left;
+}
+.float_ri{
+  float: right;
+}
+.text-input::-webkit-input-placeholder {
+  text-indent: 0;
+  text-align: center;
+  color: #000000;
+}
+ion-input{
+  color:#000000;
+}
+ion-title {
+  height: 60px;
+}
+.toolbar-ios ion-title {
+  padding: 0 40px 1px;
+}
+.toolbar-md ion-title {
+  margin-right: 40px;
+}
+.content-ios{
+}
+.back-button .back-button-text{
+  display: none;
+}
+.toolbar-background{
+  background-color: #81c594;
+}
+.toolbar-title{
+  font-size: 1.4rem;
+  white-space:normal;
+}
+.item-ios,
+.item-md{
+  padding-left:0 ;
+}
+.list-ios > .item-block:first-child{
+  border-top:0;
+}
+.list-ios > .item-block:last-child,
+.list-ios > .item-wrapper:last-child .item-block{
+  border-bottom:0;
+}
+
+ion-app.md [padding],
+ion-app.ios [padding],
+ion-app.wp [padding] {
+  .scroll-content{
+    padding: 8px;
+    /* background-color: #eaeaea;*/
+  }
+  .item-inner{
+    padding: 0;
+  }
+}
+
+ion-app.md [padding].list_custom,
+ion-app.ios [padding].list_custom,
+ion-app.wp [padding].list_custom {
+
+  .scroll-content{
+    padding: 0;
+    background-color: #eaeaea;
+  }
+  .item-md.item-block .item-inner,
+  .item-ios.item-block .item-inner,
+  .item-wp.item-block .item-inner{
+    padding: 0;
+    border-top: 1px solid #dedede;
+    border-bottom: 1px solid #dedede;
+  }
+}
+
+
+page-comempty,
+page-barempty,
+page-sign-email,
+page-login,
+page-register,
+page-about {
+  ion-content{
+    background-color: #81c594 !important;
+    background-image: url(../assets/images/bg_login.png);
+    background-size: cover;
+  }
+}
+.sign_mark{
+  width: 33%;
+  margin-left: 33%;
+  margin-top: 30px;
+}
+page-login {
+  .sign_mark{
+    width: 50%;
+    margin-left: 25%;
+  }
+
+}
+page-barempty{
+  
+  .add_btn{
+    font-size:17rem;
+    font-weight: 500;
+    color: #054d0e;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:60px;
+  }
+
+  .text-header{
+    margin-top: 50px;
+    font-size:2rem;
+  }
+
+  .bar_des{
+    color: #ffffff;
+    text-align: center;
+  }
+
+}
+
+.btn-login{
+  height: 41px;
+  width: 80%;
+  margin-left: 10%;
+  margin-top:30px;
+  font-size: 17px;
+
+  .button-inner {
+    text-transform: initial;
+    font-family: dis_md;
+  }
+}
+.row-input{
+
+  .in_stl{
+    border: 1px solid $secondary;
+    border-radius: 20px;
+    height: 42px;
+    width: 80%;
+    margin-left: 10%;
+    margin-top:30px;
+    position: relative;
+
+    ion-icon{
+      position: absolute;
+      top: 6px;
+      left: 13px;
+      font-size: 28px;
+      color: $secondary;
+    }
+
+    ion-input{
+      color: $secondary;
+    }
+
+    .text-input{
+      margin: 9px 40px 11px 40px;
+      font-size: 17px;
+      width: 70%;
+      border: 0;
+    }
+
+  }
+}
+.bottom_style{
+  position: absolute;
+  bottom: 20px;
+  width: 100%;
+  text-align: center;
+}
+.txt1, .txt2{
+  font-size: 17px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+.txt1{
+  margin-left:auto;
+  margin-right:auto;
+  color:#050f1a;
+  font-family: dis_reg;
+
+}
+.txt2{
+  margin-left:auto;
+  margin-right:auto;
+  color:#050f1a;
+  font-family: dis_bold,dis_reg;
+}
+.text-header{
+  color: #ffffff;
+}
+.bold_{
+  font-weight: bold;
+  margin-left:3px;
+}

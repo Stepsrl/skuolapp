@@ -1,0 +1,40 @@
+<!--
+  Generated template for the ListaComunicazioniPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Comunicazioni</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+    <ion-item *ngFor="let comunicazione of comunicazioni | async" text-wrap no-lines>
+        <ion-card (click)="onCardTap(comunicazione)">
+          <ion-card-header>
+            {{comunicazione.titolo}}
+          </ion-card-header>
+          <ion-card-content>
+            <p>Data attività: {{comunicazione.data}}</p>
+            <p><br>{{comunicazione.comunicazione}} </p>
+
+            <ion-item-group *ngIf="!uidDocente"> <p margin-top>Conferma lettura</p> 
+              <button ion-button clear (click)="comunicazione.conferma = 1; comunicazione.disabilita = true; partecipaEvento(true, comunicazione)" [disabled]='comunicazione.disabilita'>
+                  <ion-icon [color]="comunicazione.conferma === 1 ? 'secondary' : 'gray'" name="checkmark-circle-outline"></ion-icon>
+              </button>
+            </ion-item-group>
+
+            <ion-item-group *ngIf="uidDocente" text-al>
+              <ion-icon class="redColor" (click)="tappedTrash(comunicazione) ; $event.stopPropagation()" float-right margin-horizontal name="trash"></ion-icon>
+              <ion-icon class="greenColor" (click)="tappedEdit(comunicazione) ; $event.stopPropagation()" float-right margin-horizontal name="create"></ion-icon>
+          </ion-item-group>
+          </ion-card-content>
+        </ion-card>
+      </ion-item> 
+      <ion-fab *ngIf="uidDocente" bottom><button ion-fab (click)=addComunicazione() margin><ion-icon name="add"></ion-icon></button></ion-fab>
+</ion-content>

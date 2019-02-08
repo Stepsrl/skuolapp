@@ -1,0 +1,3815 @@
+{
+  "elezioni": [
+    {
+      "codelezione": "COM_29-04-2018-1-6-85-1290",
+      "codcomune": "1290",
+      "comune": "UDINE",
+      "sindaci": [
+        {  "codsindaco": "UDI1",
+          "name": "Vincenzo Martines",
+          "liste": [
+            {
+              "codLista": "UDI1-UD1",
+              "nomelista": "Partito Democratico",
+              "simbolo": "",
+              "candidati": [
+
+                  {
+                    "COD": "UDI1-UD1-1",
+                    "NAME": "CARLO GIACOMELLO",
+                    "CITTA": "UDINE",
+                    "DATA": "09/08/1961"
+                  },
+                  {
+                    "COD": "UDI1-UD1-2",
+                    "NAME": "MONICA PAVIOTTI",
+                    "CITTA": "VENEZIA",
+                    "DATA": "21/03/1967"
+                  },
+                  {
+                    "COD": "UDI1-UD1-3",
+                    "NAME": "ALESSANDRO VENANZI",
+                    "CITTA": "UDINE",
+                    "DATA": "16/10/1981"
+                  },
+                  {
+                    "COD": "UDI1-UD1-4",
+                    "NAME": "CINZIA DEL TORRE",
+                    "CITTA": "UDINE",
+                    "DATA": "16/04/1979"
+                  },
+                  {
+                    "COD": "UDI1-UD1-5",
+                    "NAME": "PIERENRICO SCALETTARIS",
+                    "CITTA": "UDINE",
+                    "DATA": "03/11/1983"
+                  },
+                  {
+                    "COD": "UDI1-UD1-6",
+                    "NAME": "MARIA LETIZIA BURTULO",
+                    "CITTA": "UDINE",
+                    "DATA": "16/07/1949"
+                  },
+                  {
+                    "COD": "UDI1-UD1-7",
+                    "NAME": "MARIO BAREL",
+                    "CITTA": "GEMONA DEL FRIULI (UD",
+                    "DATA": "09/09/1950"
+                  },
+                  {
+                    "COD": "UDI1-UD1-8",
+                    "NAME": "CHIARA GALLO",
+                    "CITTA": "SARNO (SA)",
+                    "DATA": "10/08/1950"
+                  },
+                  {
+                    "COD": "UDI1-UD1-9",
+                    "NAME": "CLAUDIO FRESCHI",
+                    "CITTA": "UDINE",
+                    "DATA": "17/02/1956"
+                  },
+                  {
+                    "COD": "UDI1-UD1-10",
+                    "NAME": "ELEONORA MELONI",
+                    "CITTA": "TRIESTE",
+                    "DATA": "01/04/1984"
+                  },
+                  {
+                    "COD": "UDI1-UD1-11",
+                    "NAME": "STEFANO SASSET",
+                    "CITTA": "UDINE",
+                    "DATA": "26/10/1970"
+                  },
+                  {
+                    "COD": "UDI1-UD1-12",
+                    "NAME": "SARA ROSSO",
+                    "CITTA": "UDINE",
+                    "DATA": "30/12/1987"
+                  },
+                  {
+                    "COD": "UDI1-UD1-13",
+                    "NAME": "NERINA FABBRO",
+                    "CITTA": "SAN VITO DI FAGAGNA (UD",
+                    "DATA": "07/09/1957"
+                  },
+                  {
+                    "COD": "UDI1-UD1-14",
+                    "NAME": "AHMAD AKKAD",
+                    "CITTA": "ALEPPO (SYR",
+                    "DATA": "10/09/1982"
+                  },
+                  {
+                    "COD": "UDI1-UD1-15",
+                    "NAME": "ANNA CLEMENTE",
+                    "CITTA": "UDINE",
+                    "DATA": "15/02/1994"
+                  },
+                  {
+                    "COD": "UDI1-UD1-16",
+                    "NAME": "MASSIMO BARONI",
+                    "CITTA": "BOARA PISANI (PD",
+                    "DATA": "14/10/1964"
+                  },
+                  {
+                    "COD": "UDI1-UD1-17",
+                    "NAME": "OTTORINA CROATTO",
+                    "CITTA": "REANA DEL ROJALE (UD",
+                    "DATA": "22/08/1938"
+                  },
+                  {
+                    "COD": "UDI1-UD1-18",
+                    "NAME": "LIVIO BORTOLUZZI",
+                    "CITTA": "GORIZIA",
+                    "DATA": "18/01/1963"
+                  },
+                  {
+                    "COD": "UDI1-UD1-19",
+                    "NAME": "MANUELA DANIEL",
+                    "CITTA": "PORDENONE",
+                    "DATA": "26/09/1976"
+                  },
+                  {
+                    "COD": "UDI1-UD1-20",
+                    "NAME": "ALESSIO CALAZ",
+                    "CITTA": "RIVOLI (TO",
+                    "DATA": "15/02/1974"
+                  },
+                  {
+                    "COD": "UDI1-UD1-21",
+                    "NAME": "DOLORES FINOTTO",
+                    "CITTA": "PONTEBBA (UD",
+                    "DATA": "10/08/1942"
+                  },
+                  {
+                    "COD": "UDI1-UD1-22",
+                    "NAME": "MASSIMO CODOGNELLO",
+                    "CITTA": "MILANO",
+                    "DATA": "16/06/1947"
+                  },
+                  {
+                    "COD": "UDI1-UD1-23",
+                    "NAME": "PAOLA LERUSSI",
+                    "CITTA": "UDINE",
+                    "DATA": "18/04/1975"
+                  },
+                  {
+                    "COD": "UDI1-UD1-24",
+                    "NAME": "MATTEO DELLA ROSSA",
+                    "CITTA": "UDINE",
+                    "DATA": "10/09/1975"
+                  },
+                  {
+                    "COD": "UDI1-UD1-25",
+                    "NAME": "LAURA PASSONI",
+                    "CITTA": "UDINE",
+                    "DATA": "06/01/1953"
+                  },
+                  {
+                    "COD": "UDI1-UD1-26",
+                    "NAME": "ANGELO GAGLIARDI",
+                    "CITTA": "UDINE",
+                    "DATA": "30/04/1964"
+                  },
+                  {
+                    "COD": "UDI1-UD1-27",
+                    "NAME": "CLEMENTINA PIANI",
+                    "CITTA": "UDINE",
+                    "DATA": "11/11/1993"
+                  },
+                  {
+                    "COD": "UDI1-UD1-28",
+                    "NAME": "ALDO DURI'",
+                    "CITTA": "UDINE",
+                    "DATA": "05/03/1952"
+                  },
+                  {
+                    "COD": "UDI1-UD1-29",
+                    "NAME": "ISABELLA REALE",
+                    "CITTA": "SPILIMBERGO (PN",
+                    "DATA": "13/08/1956"
+                  },
+                  {
+                    "COD": "UDI1-UD1-30",
+                    "NAME": "ALBERTO GIACOMINI",
+                    "CITTA": "CIVIDALE DEL FRIULI (UD",
+                    "DATA": "04/02/1983"
+                  },
+                  {
+                    "COD": "UDI1-UD1-31",
+                    "NAME": "MARGHERITA SUSANNA",
+                    "CITTA": "UDINE",
+                    "DATA": "15/06/1993"
+                  },
+                  {
+                    "COD": "UDI1-UD1-32",
+                    "NAME": "FRANCESCO MILANESE",
+                    "CITTA": "UDINE",
+                    "DATA": "04/08/1960"
+                  },
+                  {
+                    "COD": "UDI1-UD1-33",
+                    "NAME": "MARIANGIOLA TENCA-MONTINI",
+                    "CITTA": "UDINE",
+                    "DATA": "19/11/1941"
+                  },
+                  {
+                    "COD": "UDI1-UD1-34",
+                    "NAME": "DOMENICO MONTANARO",
+                    "CITTA": "PESCARA",
+                    "DATA": "05/12/1950"
+                  },
+                  {
+                    "COD": "UDI1-UD1-35",
+                    "NAME": "MANUEL PICCOLI",
+                    "CITTA": "GORIZIA",
+                    "DATA": "31/12/1977"
+                  },
+                  {
+                    "COD": "UDI1-UD1-36",
+                    "NAME": "CLAUDIO ROMANO",
+                    "CITTA": "VILLA SANTINA (UD",
+                    "DATA": "19/05/1942"
+                  },
+                  {
+                    "COD": "UDI1-UD1-37",
+                    "NAME": "ANDREA ROSSI",
+                    "CITTA": "UDINE",
+                    "DATA": "18/11/1958"
+                  },
+                  {
+                    "COD": "UDI1-UD1-38",
+                    "NAME": "GIOVANNI SERMANN",
+                    "CITTA": "UDINE",
+                    "DATA": "26/03/1964"
+                  },
+                  {
+                    "COD": "UDI1-UD1-39",
+                    "NAME": "ANDREA TANDELLE",
+                    "CITTA": "PORDENONE",
+                    "DATA": "22/02/1970"
+                  },
+                  {
+                    "COD": "UDI1-UD1-40",
+                    "NAME": "NORBERTO TONINI",
+                    "CITTA": "MONTEMARCIANO (AN",
+                    "DATA": "07/06/1947"
+                  }
+                ]
+
+            },
+            {
+              "codLista": "UD2",
+              "nomelista": "Progetto Innovare",
+              "simbolo": "",
+              "candidati": [
+
+                  {
+                    "COD": "UDI1-UD2-1",
+                    "NAME": "Franco Aloi",
+                    "CITTA": "Udine",
+                    "DATA": "23/08/1966",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-2",
+                    "NAME": "Paolo Bassi",
+                    "CITTA": "Udine",
+                    "DATA": "07/12/1958",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-3",
+                    "NAME": "Tiziano Bravi",
+                    "CITTA": "Udine",
+                    "DATA": "25/05/1964",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-4",
+                    "NAME": "Alice Buosi",
+                    "CITTA": "Motta di Livenza (Tv",
+                    "DATA": ",",
+                    "FIELD5": "13/11/1987"
+                  },
+                  {
+                    "COD": "UDI1-UD2-5",
+                    "NAME": "Adalberto Burelli",
+                    "CITTA": "Dignano",
+                    "DATA": "12/02/1987",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-6",
+                    "NAME": "Damiano Cantone",
+                    "CITTA": "Udine",
+                    "DATA": "21/07/1977",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-7",
+                    "NAME": "Martina Casagrande",
+                    "CITTA": "Mirano (Ve",
+                    "DATA": "21/04/1980",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-8",
+                    "NAME": "Massimo Ceccon",
+                    "CITTA": "Udine",
+                    "DATA": "10/10/1985",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-9",
+                    "NAME": "Riccardo Costantini",
+                    "CITTA": "Udine",
+                    "DATA": "09/10/1978",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-10",
+                    "NAME": "Antonio Di Ninno",
+                    "CITTA": "Martina Franca (Ta",
+                    "DATA": "14/04/1970",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-11",
+                    "NAME": "Franco Della Rossa",
+                    "CITTA": "Udine",
+                    "DATA": "25/01/1938",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-12",
+                    "NAME": "Enrico D’Este",
+                    "CITTA": "Udine",
+                    "DATA": "03/02/1947",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-13",
+                    "NAME": "Paolo Ermano",
+                    "CITTA": "Udine",
+                    "DATA": "19/02/1979",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-14",
+                    "NAME": "Isabelle Grattoni",
+                    "CITTA": "Limbé (Haiti",
+                    "DATA": "24/12/1984",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-15",
+                    "NAME": "Valentina Lazzara",
+                    "CITTA": "Udine",
+                    "DATA": "11/09/1994",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-16",
+                    "NAME": "Simona Liguori",
+                    "CITTA": "Carbonia (CI",
+                    "DATA": "25/09/1968",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-17",
+                    "NAME": "Chiara Lopopolo",
+                    "CITTA": "Crema (Cr",
+                    "DATA": "02/04/1973",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-18",
+                    "NAME": "Matteo Mansi",
+                    "CITTA": "Monte Sant’Angelo (Fg",
+                    "DATA": "25/06/1954",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-19",
+                    "NAME": "Umberto Marin",
+                    "CITTA": "Torviscosa",
+                    "DATA": "10/12/1952",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-20",
+                    "NAME": "Maria Stella Masetto",
+                    "CITTA": "Valdobbiadene (Tv",
+                    "DATA": "13/01/1952",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-21",
+                    "NAME": "Mauro Milesi",
+                    "CITTA": "Milano",
+                    "DATA": "05/05/1992",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-22",
+                    "NAME": "Giorgio Morsut",
+                    "CITTA": "Gorizia",
+                    "DATA": "13/12/1977",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-23",
+                    "NAME": "Antonella Nonino",
+                    "CITTA": "Udine",
+                    "DATA": "31/08/1977",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-24",
+                    "NAME": "Natalia Panont",
+                    "CITTA": "Milano",
+                    "DATA": "01/11/1975",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-25",
+                    "NAME": "Saverio Papa",
+                    "CITTA": "Udine",
+                    "DATA": "11/06/1995",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-26",
+                    "NAME": "Roberto Peresson",
+                    "CITTA": "Udine",
+                    "DATA": "12/02/1966",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-27",
+                    "NAME": "Stefano Perulli",
+                    "CITTA": "Udine",
+                    "DATA": "01/11/1969",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-28",
+                    "NAME": "Daniela Petris",
+                    "CITTA": "Udine",
+                    "DATA": "27/06/1960",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-29",
+                    "NAME": "Nicola Petrucco",
+                    "CITTA": "San Daniele",
+                    "DATA": "15/10/1997",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-30",
+                    "NAME": "Daniele Piemonte",
+                    "CITTA": "San Daniele",
+                    "DATA": "09/02/1986",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-31",
+                    "NAME": "Federico Angelo Pirone",
+                    "CITTA": "Udine",
+                    "DATA": "21/12/1987",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-32",
+                    "NAME": "Jevan Joseph Pudota",
+                    "CITTA": "Udine",
+                    "DATA": "05/05/1995",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-33",
+                    "NAME": "Luisa Rigo",
+                    "CITTA": "Udine",
+                    "DATA": "26/08/1961",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-34",
+                    "NAME": "Arianna Romano",
+                    "CITTA": "Napoli",
+                    "DATA": "07/07/1974",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-35",
+                    "NAME": "Daniela Rosa",
+                    "CITTA": "Villafranca Padovana (Pd",
+                    "DATA": "30/07/1951",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-36",
+                    "NAME": "Monica Soldà",
+                    "CITTA": "Udine",
+                    "DATA": "01/09/1981",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-37",
+                    "NAME": "Diana Madalina Stan",
+                    "CITTA": "Buzau (Romania",
+                    "DATA": "01/09/1978",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-38",
+                    "NAME": "Michele Vicario",
+                    "CITTA": "Udine",
+                    "DATA": "20/11/1953",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-39",
+                    "NAME": "Irene Viscovich",
+                    "CITTA": "Udine",
+                    "DATA": "24/05/1995",
+                    "FIELD5": ""
+                  },
+                  {
+                    "COD": "UDI1-UD2-40",
+                    "NAME": "Ciro Zoratti",
+                    "CITTA": "Udine",
+                    "DATA": "03/01/1985",
+                    "FIELD5": ""
+                  }
+                ]
+
+            },
+            {
+              "codLista": "UD3",
+              "nomelista": "Sinistraperta",
+              "simbolo": "",
+              "candidati": [
+
+                  {
+                    "COD": "UDI1-UD3-1",
+                    "NAME": "GIOVANNI ABRIOLA",
+                    "CITTA": "CASORIA (NA",
+                    "DATA": "03/01/1955"
+                  },
+                  {
+                    "COD": "UDI1-UD3-2",
+                    "NAME": "SEBASTIANO ANZIUTTI",
+                    "CITTA": "UDINE",
+                    "DATA": "19/11/1999"
+                  },
+                  {
+                    "COD": "UDI1-UD3-3",
+                    "NAME": "SILVIA BENINI",
+                    "CITTA": "GENOVA",
+                    "DATA": "11/11/1963"
+                  },
+                  {
+                    "COD": "UDI1-UD3-4",
+                    "NAME": "ANTONELLA BULFONE",
+                    "CITTA": "UDINE",
+                    "DATA": "25/04/1959"
+                  },
+                  {
+                    "COD": "UDI1-UD3-5",
+                    "NAME": "GABRIELLA CAPASSO",
+                    "CITTA": "NAPOLI",
+                    "DATA": "04/10/1980"
+                  },
+                  {
+                    "COD": "UDI1-UD3-6",
+                    "NAME": "WILLIAM CARLINI",
+                    "CITTA": "UDINE",
+                    "DATA": "24/09/1973"
+                  },
+                  {
+                    "COD": "UDI1-UD3-7",
+                    "NAME": "VINCENZA CARUSO",
+                    "CITTA": "MALETTO (CT",
+                    "DATA": "19/11/1971"
+                  },
+                  {
+                    "COD": "UDI1-UD3-8",
+                    "NAME": "MARIA CRISTINA CAUTERO",
+                    "CITTA": "UDINE",
+                    "DATA": "05/07/1967"
+                  },
+                  {
+                    "COD": "UDI1-UD3-9",
+                    "NAME": "TINO CESCHIA",
+                    "CITTA": "UDINE",
+                    "DATA": "27/09/1957"
+                  },
+                  {
+                    "COD": "UDI1-UD3-10",
+                    "NAME": "SILVIA CONTARINI",
+                    "CITTA": "LUGO (RA",
+                    "DATA": "12/02/1964"
+                  },
+                  {
+                    "COD": "UDI1-UD3-11",
+                    "NAME": "MASSIMILIANO COZZI",
+                    "CITTA": "UDINE",
+                    "DATA": "24/09/1964"
+                  },
+                  {
+                    "COD": "UDI1-UD3-12",
+                    "NAME": "MARCO CUCCHINI",
+                    "CITTA": "UDINE",
+                    "DATA": "16/06/1967"
+                  },
+                  {
+                    "COD": "UDI1-UD3-13",
+                    "NAME": "GADDO de ANNA",
+                    "CITTA": "PORDENONE",
+                    "DATA": "02/08/1948"
+                  },
+                  {
+                    "COD": "UDI1-UD3-14",
+                    "NAME": "MARC DE LORENZI",
+                    "CITTA": "CHARLEROI (B",
+                    "DATA": "17/08/1962"
+                  },
+                  {
+                    "COD": "UDI1-UD3-15",
+                    "NAME": "SANDRA DEL FABRO",
+                    "CITTA": "UDINE",
+                    "DATA": "25/12/1949"
+                  },
+                  {
+                    "COD": "UDI1-UD3-16",
+                    "NAME": "FEDERICA DINI",
+                    "CITTA": "VENEZIA",
+                    "DATA": "30/10/1970"
+                  },
+                  {
+                    "COD": "UDI1-UD3-17",
+                    "NAME": "EMANUELE DISNAN",
+                    "CITTA": "SAN DANIELE DEL FRIULI (UD",
+                    "DATA": "29/04/1992"
+                  },
+                  {
+                    "COD": "UDI1-UD3-18",
+                    "NAME": "GABRIELE DURIA",
+                    "CITTA": "SAN DANIELE DEL FRIULI (UD",
+                    "DATA": "02/06/1998"
+                  },
+                  {
+                    "COD": "UDI1-UD3-19",
+                    "NAME": "SONJA FERJANI",
+                    "CITTA": "UDINE",
+                    "DATA": "20/02/1993"
+                  },
+                  {
+                    "COD": "UDI1-UD3-20",
+                    "NAME": "TERESA GUERRITORE",
+                    "CITTA": "PIACENZA",
+                    "DATA": "22/03/1964"
+                  },
+                  {
+                    "COD": "UDI1-UD3-21",
+                    "NAME": "SKENDER JASHARI",
+                    "CITTA": "FERIZAJ (YU",
+                    "DATA": "24/05/1972"
+                  },
+                  {
+                    "COD": "UDI1-UD3-22",
+                    "NAME": "MAURIZIO MENEGAZZI",
+                    "CITTA": "UDINE",
+                    "DATA": "13/07/1948"
+                  },
+                  {
+                    "COD": "UDI1-UD3-23",
+                    "NAME": "FABIANO MICELI",
+                    "CITTA": "UDINE",
+                    "DATA": "14/11/1954"
+                  },
+                  {
+                    "COD": "UDI1-UD3-24",
+                    "NAME": "GIOVANNI MONTENA",
+                    "CITTA": "MONFALCONE (GO",
+                    "DATA": "02/11/1998 "
+                  },
+                  {
+                    "COD": "UDI1-UD3-25",
+                    "NAME": "ASSUNTA NAPPI",
+                    "CITTA": "NOLA (NA",
+                    "DATA": "15/08/1982"
+                  },
+                  {
+                    "COD": "UDI1-UD3-26",
+                    "NAME": "CRISTINA NAZZI",
+                    "CITTA": "MILANO",
+                    "DATA": "22/12/1967"
+                  },
+                  {
+                    "COD": "UDI1-UD3-27",
+                    "NAME": "ENZO ORTOLAN",
+                    "CITTA": "LIDO DI VENEZIA (VE",
+                    "DATA": "31/07/1951"
+                  },
+                  {
+                    "COD": "UDI1-UD3-28",
+                    "NAME": "DANIELA PORTEGRANDI",
+                    "CITTA": "UDINE",
+                    "DATA": "30/12/1951"
+                  },
+                  {
+                    "COD": "UDI1-UD3-29",
+                    "NAME": "GIUSEPPINA SABATINO PETRALIA",
+                    "CITTA": "SOTTANA (PA",
+                    "DATA": "19/04/1975"
+                  },
+                  {
+                    "COD": "UDI1-UD3-30",
+                    "NAME": "ANDREA SANDRA",
+                    "CITTA": "SANREMO (IM",
+                    "DATA": "10/12/1963"
+                  },
+                  {
+                    "COD": "UDI1-UD3-31",
+                    "NAME": "VERONICA SAUCHELLI",
+                    "CITTA": "CIVIDALE DEL FRIULI (UD",
+                    "DATA": "16/04/1991"
+                  },
+                  {
+                    "COD": "UDI1-UD3-32",
+                    "NAME": "ANTONIO SORTINO",
+                    "CITTA": "RAGUSA",
+                    "DATA": "20/02/1978"
+                  },
+                  {
+                    "COD": "UDI1-UD3-33",
+                    "NAME": "PIERPAOLO SUBER",
+                    "CITTA": "UDINE",
+                    "DATA": "03/10/1953"
+                  },
+                  {
+                    "COD": "UDI1-UD3-34",
+                    "NAME": "ANNA TAVANO",
+                    "CITTA": "LUCERNA (SVIZZERA",
+                    "DATA": "07/12/1970"
+                  },
+                  {
+                    "COD": "UDI1-UD3-35",
+                    "NAME": "ELENA TURCHETTI",
+                    "CITTA": "SAN VITO AL TAGLIAMENTO (PN",
+                    "DATA": "03/09/1979"
+                  },
+                  {
+                    "COD": "UDI1-UD3-36",
+                    "NAME": "GIUSEPPA VASSALLO",
+                    "CITTA": "AGRIGENTO",
+                    "DATA": "10/02/1980"
+                  },
+                  {
+                    "COD": "UDI1-UD3-37",
+                    "NAME": "ALESSIO VICARIO",
+                    "CITTA": "UDINE",
+                    "DATA": "11/03/1969"
+                  },
+                  {
+                    "COD": "UDI1-UD3-38",
+                    "NAME": "ALESSANDRA ZENAROLA",
+                    "CITTA": "UDINE",
+                    "DATA": "16/04/1959"
+                  },
+                  {
+                    "COD": "UDI1-UD3-39",
+                    "NAME": "ANTONELLA ZOSSI",
+                    "CITTA": "ARTEGNA (UD",
+                    "DATA": "10/02/1957"
+                  },
+                  {
+                    "COD": "UDI1-UD3-40",
+                    "NAME": "RODOLFO ZUCCO",
+                    "CITTA": "FELTRE (BL",
+                    "DATA": "23/05/1966"
+                  }
+                ]
+
+            },
+            {
+              "codLista": "UD4",
+              "nomelista": "siAmo Udine con Martines",
+              "simbolo": "",
+              "candidati": [
+
+                  {
+                    "COD": "UDI1-UD4-1",
+                    "NAME": "ALESSANDRO TALOTTI",
+                    "CITTA": "UDINE",
+                    "DATA": "07/10/1980"
+                  },
+                  {
+                    "COD": "UDI1-UD4-2",
+                    "NAME": "GIORGIO ROSIGNOLI",
+                    "CITTA": "UDINE",
+                    "DATA": "29/03/1955"
+                  },
+                  {
+                    "COD": "UDI1-UD4-3",
+                    "NAME": "LOREDANA VIEL",
+                    "CITTA": "SACILE (PN",
+                    "DATA": "20/11/1972"
+                  },
+                  {
+                    "COD": "UDI1-UD4-4",
+                    "NAME": "FRANCO BIFFONI",
+                    "CITTA": "ROMA",
+                    "DATA": "04/07/1944"
+                  },
+                  {
+                    "COD": "UDI1-UD4-5",
+                    "NAME": "GABRIELLA BOATO",
+                    "CITTA": "UDINE",
+                    "DATA": "03/06/1945"
+                  },
+                  {
+                    "COD": "UDI1-UD4-6",
+                    "NAME": "SERGIO CASA",
+                    "CITTA": "SCHIO (VI",
+                    "DATA": "03/11/1949"
+                  },
+                  {
+                    "COD": "UDI1-UD4-7",
+                    "NAME": "ANDREA CASTIGLIONE",
+                    "CITTA": "UDINE",
+                    "DATA": "11/02/1966"
+                  },
+                  {
+                    "COD": "UDI1-UD4-8",
+                    "NAME": "ANDREA CECCHINI",
+                    "CITTA": "UDINE",
+                    "DATA": "18/10/1960"
+                  },
+                  {
+                    "COD": "UDI1-UD4-9",
+                    "NAME": "ANDREA CUSSIGH",
+                    "CITTA": "UDINE",
+                    "DATA": "23/02/1991"
+                  },
+                  {
+                    "COD": "UDI1-UD4-10",
+                    "NAME": "LAURA DE LUCA",
+                    "CITTA": "UDINE",
+                    "DATA": "27/02/1970"
+                  },
+                  {
+                    "COD": "UDI1-UD4-11",
+                    "NAME": "ALESSANDRO DE VITT",
+                    "CITTA": "PALMANOVA (UD",
+                    "DATA": "09/06/1949"
+                  },
+                  {
+                    "COD": "UDI1-UD4-12",
+                    "NAME": "CLAUDIO DEL MESTRE",
+                    "CITTA": "UDINE",
+                    "DATA": "25/05/1957"
+                  },
+                  {
+                    "COD": "UDI1-UD4-13",
+                    "NAME": "VIVIANA DI DOMENICO",
+                    "CITTA": "AVELLINO",
+                    "DATA": "20/07/1964"
+                  },
+                  {
+                    "COD": "UDI1-UD4-14",
+                    "NAME": "ALBERTO DUCA",
+                    "CITTA": "UDINE",
+                    "DATA": "17/01/1961"
+                  },
+                  {
+                    "COD": "UDI1-UD4-15",
+                    "NAME": "BARBARA ERRICO",
+                    "CITTA": "BELLUNO",
+                    "DATA": "20/12/1959"
+                  },
+                  {
+                    "COD": "UDI1-UD4-16",
+                    "NAME": "GIOVANNI FORCIONE",
+                    "CITTA": "MONTECILFONE (CB",
+                    "DATA": "23/08/1952"
+                  },
+                  {
+                    "COD": "UDI1-UD4-17",
+                    "NAME": "LAURA FRATTASIO",
+                    "CITTA": "MODENA",
+                    "DATA": "24/04/1976"
+                  },
+                  {
+                    "COD": "UDI1-UD4-18",
+                    "NAME": "SERENA FRITZ",
+                    "CITTA": "UDINE",
+                    "DATA": "15/10/1987"
+                  },
+                  {
+                    "COD": "UDI1-UD4-19",
+                    "NAME": "ANTONELLA ELOISA GATTA",
+                    "CITTA": "VARESE",
+                    "DATA": "06/07/1976"
+                  },
+                  {
+                    "COD": "UDI1-UD4-20",
+                    "NAME": "ADRIANO GIAVON",
+                    "CITTA": "ZURIGO (CH",
+                    "DATA": "22/09/1968"
+                  },
+                  {
+                    "COD": "UDI1-UD4-21",
+                    "NAME": "FRANCESCO GIGLIOTTI",
+                    "CITTA": "LAMEZIA TERME (CZ",
+                    "DATA": "14/01/1990"
+                  },
+                  {
+                    "COD": "UDI1-UD4-22",
+                    "NAME": "GIANMARIA MARCHETTA",
+                    "CITTA": "GEMONA DEL FRIULI (UD",
+                    "DATA": "16/05/1989"
+                  },
+                  {
+                    "COD": "UDI1-UD4-23",
+                    "NAME": "CIRO NAVARRA",
+                    "CITTA": "POZZUOLI (NA",
+                    "DATA": "04/08/1958"
+                  },
+                  {
+                    "COD": "UDI1-UD4-24",
+                    "NAME": "DONATELLA NONINO",
+                    "CITTA": "UDINE",
+                    "DATA": "21/03/1963"
+                  },
+                  {
+                    "COD": "UDI1-UD4-25",
+                    "NAME": "PATRIZIA NOVAJRA",
+                    "CITTA": "TORINO",
+                    "DATA": "03/07/1957"
+                  },
+                  {
+                    "COD": "UDI1-UD4-26",
+                    "NAME": "ADRIANA OPOKU",
+                    "CITTA": "UDINE",
+                    "DATA": "10/01/1994"
+                  },
+                  {
+                    "COD": "UDI1-UD4-27",
+                    "NAME": "LORENZO PATTI AGARTALA -",
+                    "CITTA": "ASSAM (IND",
+                    "DATA": "01/07/1985"
+                  },
+                  {
+                    "COD": "UDI1-UD4-28",
+                    "NAME": "NIVES PERESSINI",
+                    "CITTA": "DIGNANO (UD",
+                    "DATA": "14/10/1949"
+                  },
+                  {
+                    "COD": "UDI1-UD4-29",
+                    "NAME": "MAGDA PERESSUTTI",
+                    "CITTA": "UDINE",
+                    "DATA": "13/10/1971"
+                  },
+                  {
+                    "COD": "UDI1-UD4-30",
+                    "NAME": "MARTA PLAZZOTTA",
+                    "CITTA": "TARVISIO (UD",
+                    "DATA": "12/06/1951"
+                  },
+                  {
+                    "COD": "UDI1-UD4-31",
+                    "NAME": "MARIAELENA PORZIO",
+                    "CITTA": "UDINE",
+                    "DATA": "13/08/1966"
+                  },
+                  {
+                    "COD": "UDI1-UD4-32",
+                    "NAME": "ANDREA PURINAN",
+                    "CITTA": "UDINE",
+                    "DATA": "26/05/1965"
+                  },
+                  {
+                    "COD": "UDI1-UD4-33",
+                    "NAME": "RICCARDO SALVATORE RIZZA",
+                    "CITTA": "UDINE",
+                    "DATA": "09/05/1992"
+                  },
+                  {
+                    "COD": "UDI1-UD4-34",
+                    "NAME": "MARIO ROSARIO ROCCUZZO",
+                    "CITTA": "CATANIA",
+                    "DATA": "29/08/1964"
+                  },
+                  {
+                    "COD": "UDI1-UD4-35",
+                    "NAME": "MARINELA ALINA SFARCIOC NEGRESTI",
+                    "CITTA": "OAS (ROMANIA",
+                    "DATA": "28/09/1980"
+                  },
+                  {
+                    "COD": "UDI1-UD4-36",
+                    "NAME": "DUCCIO VALENTE",
+                    "CITTA": "UDINE",
+                    "DATA": "15/10/1973"
+                  },
+                  {
+                    "COD": "UDI1-UD4-37",
+                    "NAME": "CHIARA VATTOLO",
+                    "CITTA": "UDINE",
+                    "DATA": "06/11/1981"
+                  },
+                  {
+                    "COD": "UDI1-UD4-38",
+                    "NAME": "ALESSANDRO VENTURINI",
+                    "CITTA": "UDINE",
+                    "DATA": "13/11/1966"
+                  },
+                  {
+                    "COD": "UDI1-UD4-39",
+                    "NAME": "NICCOLO' VERONESE",
+                    "CITTA": "UDINE",
+                    "DATA": "31/03/2000"
+                  },
+                  {
+                    "COD": "UDI1-UD4-40",
+                    "NAME": "ROBERTO ZATTI",
+                    "CITTA": "AMPEZZO (UD",
+                    "DATA": "23/04/1956"
+                  }
+                ]
+
+            }
+          ]
+        },
+        {
+          "codsindaco": "UDI2",
+          "name": "Pietro Fontanini",
+          "liste": [
+            {
+              "codLista": "UDI2-UD5",
+              "nomelista": "Lega Nord",
+              "simbolo": "",
+              "candidati": [
+
+                  {
+                    "COD": "UDI2-UD5-1",
+                    "NAME": "ENRICO ANDREUCCI FLORIO",
+                    "CITTA": "SAN DANIELE DEL FRIULI (UD",
+                    "DATA": "26/06/1992 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-2",
+                    "NAME": "CLAUDIA BASALDELLA",
+                    "CITTA": "UDINE",
+                    "DATA": "30/11/1991 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-3",
+                    "NAME": "ELISA BATTAGLIA detta ASIA",
+                    "CITTA": "MANIAGO",
+                    "DATA": "29/06/1982 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-4",
+                    "NAME": "FRANCO BATTINI",
+                    "CITTA": "VARESE",
+                    "DATA": "25/10/1967 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-5",
+                    "NAME": "FABRIZIO BERNETTI",
+                    "CITTA": "TRIESTE",
+                    "DATA": "04/12/1963 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-6",
+                    "NAME": "GENTILE BRUNO BRUNELLI",
+                    "CITTA": "UDINE",
+                    "DATA": "27/09/1991 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-7",
+                    "NAME": "DONATA CATELLI",
+                    "CITTA": "CREMONA",
+                    "DATA": "29/06/1962 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-8",
+                    "NAME": "ALESSANDRO CIANI",
+                    "CITTA": "UDINE",
+                    "DATA": "21/07/1990 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-9",
+                    "NAME": "GIOVANNA COMINO",
+                    "CITTA": "UDINE",
+                    "DATA": "26/03/1948 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-10",
+                    "NAME": "CATERINA COMISSO",
+                    "CITTA": "TEOR",
+                    "DATA": "30/04/1943 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-11",
+                    "NAME": "ANNA GRAGNOLINI",
+                    "CITTA": "UDINE",
+                    "DATA": "15/03/1974 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-12",
+                    "NAME": "ANDREA CUNTA",
+                    "CITTA": "MONFALCONE (GO",
+                    "DATA": "11/04/1967 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-13",
+                    "NAME": "ARIANNA DE BIAGGIO",
+                    "CITTA": "UDINE",
+                    "DATA": "12/11/1994 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-14",
+                    "NAME": "IVANA DI BETTA",
+                    "CITTA": "FLEURUS (B",
+                    "DATA": "22/08/1956 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-15",
+                    "NAME": "GIULIO DRI",
+                    "CITTA": "UDINE",
+                    "DATA": "12/09/1969 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-16",
+                    "NAME": "GIULIA FERRAMOSCA AGOSTINELLI",
+                    "CITTA": "UDINE",
+                    "DATA": "15/12/1994 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-17",
+                    "NAME": "PAOLO FORAMITTI",
+                    "CITTA": "UDINE",
+                    "DATA": "13/11/1957 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-18",
+                    "NAME": "MAURIZIO FRANZ",
+                    "CITTA": "UDINE",
+                    "DATA": "28/08/1960 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-19",
+                    "NAME": "DOMENICO FRESCURA",
+                    "CITTA": "UDINE",
+                    "DATA": "14/06/1955 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-20",
+                    "NAME": "LORENZA IOAN",
+                    "CITTA": "TOLMEZZO (UD",
+                    "DATA": "05/01/1981 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-21",
+                    "NAME": "FRANCESCA LAUDICINA",
+                    "CITTA": "UDINE",
+                    "DATA": "02/07/1965 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-22",
+                    "NAME": "PAOLO MACORIGH",
+                    "CITTA": "UDINE",
+                    "DATA": "19/02/1977 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-23",
+                    "NAME": "LORENZO MADARO",
+                    "CITTA": "UDINE",
+                    "DATA": "06/08/1963 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-24",
+                    "NAME": "ELISABETTA MARIONI in CANDOLINI",
+                    "CITTA": "UDINE",
+                    "DATA": "27/02/1954 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-25",
+                    "NAME": "LUCA MATTIOLI",
+                    "CITTA": "UDINE",
+                    "DATA": "31/10/1966 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-26",
+                    "NAME": "MARCELLO MAZZA",
+                    "CITTA": "UDINE",
+                    "DATA": "26/04/1965 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-27",
+                    "NAME": "MICHELE METUS",
+                    "CITTA": "UDINE",
+                    "DATA": "12/10/1985 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-28",
+                    "NAME": "PIERLUIGI MEZZINI",
+                    "CITTA": "PADOVA",
+                    "DATA": "07/10/1972 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-29",
+                    "NAME": "ROSSELLA MICHELIN",
+                    "CITTA": "VITTORIO VENETO (TV",
+                    "DATA": "28/09/1964 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-30",
+                    "NAME": "CARLO PAVAN",
+                    "CITTA": "UDINE",
+                    "DATA": "19/04/1967 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-31",
+                    "NAME": "VERONICA PIAZZA in QUAGLIARO",
+                    "CITTA": "UDINE",
+                    "DATA": "21/01/1981 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-32",
+                    "NAME": "ANTONIO PITTIONI detto ANTONELLO",
+                    "CITTA": "CIVIDALE DEL FRIULI",
+                    "DATA": "12/03/1964 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-33",
+                    "NAME": "MARIO PITTONI",
+                    "CITTA": "UDINE",
+                    "DATA": "28/11/1950 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-34",
+                    "NAME": "MARIO RAGGI",
+                    "CITTA": "UDINE",
+                    "DATA": "11/05/1962 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-35",
+                    "NAME": "CRISTINA SCROSOPPI",
+                    "CITTA": "SAN VITO AL TAGLIAMENTO (PN",
+                    "DATA": "14/04/1956 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-36",
+                    "NAME": "FILIPPO TONEATTI",
+                    "CITTA": "PALMANOVA (UD",
+                    "DATA": "03/04/1974 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-37",
+                    "NAME": "LARA TOSOLINI",
+                    "CITTA": "CIVIDALE DEL FRIULI",
+                    "DATA": "11/05/1971 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-38",
+                    "NAME": "VALENTINA TURCUTTO",
+                    "CITTA": "UDINE",
+                    "DATA": "05/03/1986 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-39",
+                    "NAME": "LINO ZOTTIG-PINTOR",
+                    "CITTA": "PREPOTTO (UD",
+                    "DATA": "02/06/1953 "
+                  },
+                  {
+                    "COD": "UDI2-UD5-40",
+                    "NAME": "PAOLO ZULLO",
+                    "CITTA": "LA SPEZIA",
+                    "DATA": "01/01/1960 "
+                  }
+                ]
+
+            },
+            {
+              "codLista": "UD6",
+              "nomelista": "Forza Italia",
+              "simbolo": "",
+              "candidati": [
+
+                  {
+                    "COD": "UDI2-UD6-1",
+                    "NAME": "VINCENZO TANZI",
+                    "CITTA": "NOTO (SR",
+                    "DATA": "12/02/1971"
+                  },
+                  {
+                    "COD": "UDI2-UD6-2",
+                    "NAME": "STEFANO CECOTTI",
+                    "CITTA": "GEMONA DEL FRIULI (UD",
+                    "DATA": "17/02/1994"
+                  },
+                  {
+                    "COD": "UDI2-UD6-3",
+                    "NAME": "ANGELO ANDREOLI",
+                    "CITTA": "CEREGNANO (RO",
+                    "DATA": "15/04/1940"
+                  },
+                  {
+                    "COD": "UDI2-UD6-4",
+                    "NAME": "GIOVANNI BARILLARI",
+                    "CITTA": "UDINE",
+                    "DATA": "02/02/1966"
+                  },
+                  {
+                    "COD": "UDI2-UD6-5",
+                    "NAME": "ENZO BASSI",
+                    "CITTA": "UDINE",
+                    "DATA": "22/03/1957"
+                  },
+                  {
+                    "COD": "UDI2-UD6-6",
+                    "NAME": "ENRICO BERTI",
+                    "CITTA": "PORTOGRUARO (VE",
+                    "DATA": "06/07/1964"
+                  },
+                  {
+                    "COD": "UDI2-UD6-7",
+                    "NAME": "MIRKO BORTOLIN",
+                    "CITTA": "PORDENONE",
+                    "DATA": "13/10/1972"
+                  },
+                  {
+                    "COD": "UDI2-UD6-8",
+                    "NAME": "PROSPERO CALI'",
+                    "CITTA": "CENTURIPE (EN",
+                    "DATA": "20/12/1958"
+                  },
+                  {
+                    "COD": "UDI2-UD6-9",
+                    "NAME": "DOROTEA CALLIGARO",
+                    "CITTA": "UDINE",
+                    "DATA": "05/09/1970"
+                  },
+                  {
+                    "COD": "UDI2-UD6-10",
+                    "NAME": "FRANCESCO CASARSA",
+                    "CITTA": "UDINE",
+                    "DATA": "07/12/1962"
+                  },
+                  {
+                    "COD": "UDI2-UD6-11",
+                    "NAME": "CATERINA CASONETTO",
+                    "CITTA": "UDINE",
+                    "DATA": "20/03/1980"
+                  },
+                  {
+                    "COD": "UDI2-UD6-12",
+                    "NAME": "GIULIA CESCHIA",
+                    "CITTA": "SAN DANIELE DEL FRIULI (UD",
+                    "DATA": "24/05/1987"
+                  },
+                  {
+                    "COD": "UDI2-UD6-13",
+                    "NAME": "ENNIO CHIANDETTI",
+                    "CITTA": "POVOLETTO (UD",
+                    "DATA": "02/06/1946"
+                  },
+                  {
+                    "COD": "UDI2-UD6-14",
+                    "NAME": "FABRIZIO CIGOLOT",
+                    "CITTA": "AVIANO (PN",
+                    "DATA": "21/09/1956"
+                  },
+                  {
+                    "COD": "UDI2-UD6-15",
+                    "NAME": "MARIA CISMONDI",
+                    "CITTA": "UDINE",
+                    "DATA": "06/11/1968"
+                  },
+                  {
+                    "COD": "UDI2-UD6-16",
+                    "NAME": "DARIO CODARIN",
+                    "CITTA": "CORMONS (GO",
+                    "DATA": "11/12/1983"
+                  },
+                  {
+                    "COD": "UDI2-UD6-17",
+                    "NAME": "ADRIANO CONTI",
+                    "CITTA": "PISA",
+                    "DATA": "11/06/1937"
+                  },
+                  {
+                    "COD": "UDI2-UD6-18",
+                    "NAME": "ERRICO de LUCA",
+                    "CITTA": "UDINE",
+                    "DATA": "02/09/1968"
+                  },
+                  {
+                    "COD": "UDI2-UD6-19",
+                    "NAME": "MARTA FAVILLI",
+                    "CITTA": "LUCCA",
+                    "DATA": "05/06/1963"
+                  },
+                  {
+                    "COD": "UDI2-UD6-20",
+                    "NAME": "RENATO FERUGLIO",
+                    "CITTA": "TAVAGNACCO (UD",
+                    "DATA": "20/03/1949"
+                  },
+                  {
+                    "COD": "UDI2-UD6-21",
+                    "NAME": "FLAVIO GALLIZIA",
+                    "CITTA": "GEMONA DEL FRIULI (UD",
+                    "DATA": "07/02/1962"
+                  },
+                  {
+                    "COD": "UDI2-UD6-22",
+                    "NAME": "ROBERTO GAVAZZA",
+                    "CITTA": "UDINE",
+                    "DATA": "26/05/1960"
+                  },
+                  {
+                    "COD": "UDI2-UD6-23",
+                    "NAME": "GIOVANNI GOVETTO",
+                    "CITTA": "UDINE",
+                    "DATA": "25/01/1980"
+                  },
+                  {
+                    "COD": "UDI2-UD6-24",
+                    "NAME": "MANUELITA DOLORES GREGORUTTI",
+                    "CITTA": "FRAUENFELD (CH",
+                    "DATA": "15/11/1962"
+                  },
+                  {
+                    "COD": "UDI2-UD6-25",
+                    "NAME": "PASQUALE LAMANNA",
+                    "CITTA": "CASANDRINO (NA",
+                    "DATA": "06/01/1947"
+                  },
+                  {
+                    "COD": "UDI2-UD6-26",
+                    "NAME": "CHIARA MATTELIG",
+                    "CITTA": "UDINE",
+                    "DATA": "29/12/1984"
+                  },
+                  {
+                    "COD": "UDI2-UD6-27",
+                    "NAME": "GIUSEPPINA MEDELIN",
+                    "CITTA": "LATISANA (UD",
+                    "DATA": "30/05/1942"
+                  },
+                  {
+                    "COD": "UDI2-UD6-28",
+                    "NAME": "ENRICO MAGNANI",
+                    "CITTA": "UDINE",
+                    "DATA": "14/04/1959"
+                  },
+                  {
+                    "COD": "UDI2-UD6-29",
+                    "NAME": "FRANCESCA MAURIG",
+                    "CITTA": "UDINE",
+                    "DATA": "16/08/1974"
+                  },
+                  {
+                    "COD": "UDI2-UD6-30",
+                    "NAME": "TERESA MONTALBANO",
+                    "CITTA": "CALTANISSETTA",
+                    "DATA": "04/07/1962"
+                  },
+                  {
+                    "COD": "UDI2-UD6-31",
+                    "NAME": "LUIGI NARDINI",
+                    "CITTA": "PREPOTTO (UD",
+                    "DATA": "12/07/1951"
+                  },
+                  {
+                    "COD": "UDI2-UD6-32",
+                    "NAME": "PAOLA PASSALENTI",
+                    "CITTA": "SURSEE (CH",
+                    "DATA": "15/05/1964"
+                  },
+                  {
+                    "COD": "UDI2-UD6-33",
+                    "NAME": "RENZO PRAVISANO",
+                    "CITTA": "TRICESIMO (UD",
+                    "DATA": "20/01/1943"
+                  },
+                  {
+                    "COD": "UDI2-UD6-34",
+                    "NAME": "LUIGI TRULLU",
+                    "CITTA": "NARCAO (CA",
+                    "DATA": "07/06/1953"
+                  },
+                  {
+                    "COD": "UDI2-UD6-35",
+                    "NAME": "DANIELE VIDAL",
+                    "CITTA": "PALMANOVA (UD",
+                    "DATA": "28/06/1965"
+                  },
+                  {
+                    "COD": "UDI2-UD6-36",
+                    "NAME": "ELENA VIERO",
+                    "CITTA": "SCHIO (VI",
+                    "DATA": "01/05/1974"
+                  },
+                  {
+                    "COD": "UDI2-UD6-37",
+                    "NAME": "RENATA ZAMPA in PURPURA",
+                    "CITTA": "UDINE",
+                    "DATA": "16/12/1939"
+                  }
+                ]
+
+            },
+            {
+              "codLista": "UD7",
+              "nomelista": "Fratelli d’Italia - Alleanza Nazionale",
+              "simbolo": "",
+              "candidati": [
+
+                  {
+                    "COD": "UDI2-UD7-1",
+                    "NAME": "UGO FALCONE",
+                    "CITTA": "MESAGNE (BR",
+                    "DATA": "16/08/1968 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-2",
+                    "NAME": "SILVIA ANDREUZZA",
+                    "CITTA": "MILANO",
+                    "DATA": "24/07/1976 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-3",
+                    "NAME": "DANIELA BARIONI",
+                    "CITTA": "COPPARO (FE",
+                    "DATA": "20/02/1953 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-4",
+                    "NAME": "ANTONIO BERNARDI",
+                    "CITTA": "OSPEDALETTO EUGANEO (PD",
+                    "DATA": "02/09/1963 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-5",
+                    "NAME": "LEARCO BERTOLI",
+                    "CITTA": "POZZUOLO DEL FRIULI (UD",
+                    "DATA": "10/11/1946 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-6",
+                    "NAME": "ELEONORA BOTTO",
+                    "CITTA": "UDINE",
+                    "DATA": "18/04/1974 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-7",
+                    "NAME": "CLARA CASTELLINI",
+                    "CITTA": "UDINE",
+                    "DATA": "23/08/1964 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-8",
+                    "NAME": "ANNALISA COLMANO",
+                    "CITTA": "UDINE",
+                    "DATA": "30/12/1967 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-9",
+                    "NAME": "PAOLO CUTTINI",
+                    "CITTA": "UDINE",
+                    "DATA": "11/09/1969 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-10",
+                    "NAME": "SOFIA DE VINCENZO",
+                    "CITTA": "UDINE",
+                    "DATA": "10/11/1966 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-11",
+                    "NAME": "IGINO DORISSA",
+                    "CITTA": "ARTA TERME (UD",
+                    "DATA": "23/11/1960 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-12",
+                    "NAME": "BEATRICE FABBRO",
+                    "CITTA": "UDINE",
+                    "DATA": "18/10/1966 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-13",
+                    "NAME": "SALVATORE GALIOTO",
+                    "CITTA": "CATANIA",
+                    "DATA": "30/08/1955 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-14",
+                    "NAME": "ANTONIO GAROFALO",
+                    "CITTA": "MONFALCONE (GO",
+                    "DATA": "25/08/1960 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-15",
+                    "NAME": "LEONARDO GUERRA",
+                    "CITTA": "STOCCARDA (GERMANIA",
+                    "DATA": "17/09/1964 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-16",
+                    "NAME": "CARLO-ALBERTO LENOCI",
+                    "CITTA": "JESOLO (VE",
+                    "DATA": "29/10/1980 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-17",
+                    "NAME": "FRANCESCO LINZI",
+                    "CITTA": "SAN DANIELE DEL FRIULI (UD",
+                    "DATA": "02/02/1964 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-18",
+                    "NAME": "IDA MAGGIO",
+                    "CITTA": "PALERMO",
+                    "DATA": "08/02/1954 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-19",
+                    "NAME": "ANDREA MARCHETTI",
+                    "CITTA": "UDINE",
+                    "DATA": "27/08/1966 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-20",
+                    "NAME": "DANIELA MARIN",
+                    "CITTA": "UDINE",
+                    "DATA": "31/07/1972 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-21",
+                    "NAME": "CATERINA MESAGLIO",
+                    "CITTA": "SAN DANIELE DEL FRIULI (UD",
+                    "DATA": "30/03/1999 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-22",
+                    "NAME": "MONICA NAPOLI",
+                    "CITTA": "UDINE",
+                    "DATA": "06/05/1968 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-23",
+                    "NAME": "PAOLO PERTUSATI",
+                    "CITTA": "UDINE",
+                    "DATA": "03/01/1967 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-24",
+                    "NAME": "ANTONIO PINTAR",
+                    "CITTA": "BUSTO ARSIZIO (VA",
+                    "DATA": "02/12/1956 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-25",
+                    "NAME": "FAUSTO POLONI",
+                    "CITTA": "SANTA MARIA CAPUA VETERE (CE",
+                    "DATA": "05/08/1963 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-26",
+                    "NAME": "TIZIANO PONTONI",
+                    "CITTA": "UDINE",
+                    "DATA": "25/11/1991 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-27",
+                    "NAME": "CRISTINA SANNA",
+                    "CITTA": "UDINE",
+                    "DATA": "20/01/1971 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-28",
+                    "NAME": "VALSIRO SCOTTI",
+                    "CITTA": "BERGAMO",
+                    "DATA": "23/10/1968 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-29",
+                    "NAME": "ANNA MARIA SIBILLA",
+                    "CITTA": "MONTEMESOLA (TA",
+                    "DATA": "15/09/1951 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-30",
+                    "NAME": "GABRIELE SILINO",
+                    "CITTA": "UDINE",
+                    "DATA": "05/04/1960 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-31",
+                    "NAME": "GIANCARLO TAMBURLINI",
+                    "CITTA": "TRENTO",
+                    "DATA": "26/12/1942 "
+                  },
+                  {
+                    "COD": "UDI2-UD7-32",
+                    "NAME": "LUCA ONORIO VIDONI",
+                    "CITTA": "TRIESTE",
+                    "DATA": "26/09/1998 "
+                  }
+                ]
+
+            },
+            {
+              "codLista": "UD8",
+              "nomelista": "Identità Civica",
+              "simbolo": "",
+              "candidati": [
+
+                  {
+                    "COD": "UDI2-UD8-1",
+                    "NAME": "LORIS MICHELINI",
+                    "CITTA": "UDINE",
+                    "DATA": "25/09/1961 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-2",
+                    "NAME": "ANTONIO FALCONE",
+                    "CITTA": "UDINE",
+                    "DATA": "20/05/1970 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-3",
+                    "NAME": "VERONICA BASELLO",
+                    "CITTA": "PALMANOVA",
+                    "DATA": "22/07/1966 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-4",
+                    "NAME": "ANGELO ERMANNO BAZAN",
+                    "CITTA": "UDINE",
+                    "DATA": "24/08/1993 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-5",
+                    "NAME": "BARBARA BERALDO",
+                    "CITTA": "UDINE",
+                    "DATA": "09/10/1955 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-6",
+                    "NAME": "GIULIANO BINDELLA",
+                    "CITTA": "VILLA POMA (MN",
+                    "DATA": "23/01/1952 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-7",
+                    "NAME": "TANIA BORTOT",
+                    "CITTA": "FELTRE (BL",
+                    "DATA": "08/11/1983 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-8",
+                    "NAME": "FRANCESCO CASARELLA",
+                    "CITTA": "SANT'AGATA DE' GOTI",
+                    "DATA": "04/10/1963 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-9",
+                    "NAME": "CLAUDIO CATTAROSSI",
+                    "CITTA": "UDINE",
+                    "DATA": "09/02/1961 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-10",
+                    "NAME": "DARIA COLONELLO",
+                    "CITTA": "MANIAGO",
+                    "DATA": "28/10/1966 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-11",
+                    "NAME": "GIANFRANCO DELLA NEGRA",
+                    "CITTA": "UDINE",
+                    "DATA": "10/03/1947 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-12",
+                    "NAME": "GARY DI QUAL",
+                    "CITTA": "BOUDEVILLIERS (CH",
+                    "DATA": "07/11/1985 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-13",
+                    "NAME": "SAMIRA EL MSATFI",
+                    "CITTA": "SAN DANIELE DEL FRIULI (UD",
+                    "DATA": "27/12/1992 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-14",
+                    "NAME": "ALESSANDRO FABRO",
+                    "CITTA": "UDINE",
+                    "DATA": "19/07/1961 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-15",
+                    "NAME": "ANDREA FADINI",
+                    "CITTA": "TARCENTO (UD",
+                    "DATA": "24/10/1962 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-16",
+                    "NAME": "ANTONIETTA FELLINE",
+                    "CITTA": "GEMONA DEL FRIULI (UD",
+                    "DATA": "25/05/1985 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-17",
+                    "NAME": "RICCARDO FORTUNATO",
+                    "CITTA": "MUSILE DI PIAVE (VE",
+                    "DATA": "06/09/1966 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-18",
+                    "NAME": "ROBERTO FRANCESCHI",
+                    "CITTA": "UDINE",
+                    "DATA": "26/06/1972 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-19",
+                    "NAME": "CLAUDIO GALLUZZO",
+                    "CITTA": "UDINE",
+                    "DATA": "15/06/1960 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-20",
+                    "NAME": "ROBERTO MARIUZZA",
+                    "CITTA": "UDINE",
+                    "DATA": "11/03/1962 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-21",
+                    "NAME": "DARIO PAOLI",
+                    "CITTA": "ROMA",
+                    "DATA": "04/04/1956 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-22",
+                    "NAME": "SANDRA RIGO",
+                    "CITTA": "UDINE",
+                    "DATA": "18/01/1964 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-23",
+                    "NAME": "ADRIANO STOCCO",
+                    "CITTA": "PALMANOVA",
+                    "DATA": "22/09/1955 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-24",
+                    "NAME": "ISABELLA ZANELLO",
+                    "CITTA": "UDINE",
+                    "DATA": "14/10/1968 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-25",
+                    "NAME": "MARIA ZANETTI",
+                    "CITTA": "UDINE",
+                    "DATA": "05/03/1951 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-26",
+                    "NAME": "MICHELE ZANOLLA",
+                    "CITTA": "GORIZIA",
+                    "DATA": "25/03/1965 "
+                  },
+                  {
+                    "COD": "UDI2-UD8-27",
+                    "NAME": "THOMAS VESNAVER",
+                    "CITTA": "UDINE",
+                    "DATA": "25/08/1989"
+                  }
+                ]
+
+            },
+            {
+              "codLista": "UD9",
+              "nomelista": "Autonomia Responsabile",
+              "simbolo": "",
+              "candidati": [
+
+                  {
+                    "COD": "UDI2-UD9-1",
+                    "NAME": "SANDRO BASSI",
+                    "CITTA": "UDINE",
+                    "DATA": "06/08/1955 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-2",
+                    "NAME": "ANNA CHIARANDINI",
+                    "CITTA": "UDINE",
+                    "DATA": "27/03/1960 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-3",
+                    "NAME": "PAOLO PIZZOCARO",
+                    "CITTA": "UDINE",
+                    "DATA": "04/05/1954 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-4",
+                    "NAME": "MAURIZIO ARABELLA vUDINE",
+                    "CITTA": "03/01/1975 ",
+                    "DATA": ""
+                  },
+                  {
+                    "COD": "UDI2-UD9-5",
+                    "NAME": "SILVIA BOSCARELLO",
+                    "CITTA": "SAN DANIELE DEL FRIULI (UD",
+                    "DATA": "16/04/1983 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-6",
+                    "NAME": "ALEX BASSO",
+                    "CITTA": "UDINE",
+                    "DATA": "24/06/1973 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-7",
+                    "NAME": "LUCIA BLONNA",
+                    "CITTA": "ROCCHETTA SANT'ANTONIO (FG",
+                    "DATA": "08/03/1959 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-8",
+                    "NAME": "LUCA BLESSANO",
+                    "CITTA": "UDINE",
+                    "DATA": "22/06/1984 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-9",
+                    "NAME": "SABRINA COMAND",
+                    "CITTA": "UDINE",
+                    "DATA": "30/01/1970 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-10",
+                    "NAME": "LUCA BOMBARDIER",
+                    "CITTA": "WINTERTHUR (CH",
+                    "DATA": "18/04/1971 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-11",
+                    "NAME": "MAURO CARNESECCHI",
+                    "CITTA": "UDINE",
+                    "DATA": "26/02/1960 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-12",
+                    "NAME": "ILARIA DOLCE",
+                    "CITTA": "LATISANA (UD",
+                    "DATA": "26/03/1969 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-13",
+                    "NAME": "SILVIO CASANOVA",
+                    "CITTA": "AGEROLA (NA",
+                    "DATA": "25/09/1956 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-14",
+                    "NAME": "ORIANA DA PRAT",
+                    "CITTA": "BASILEA (CH",
+                    "DATA": "09/08/1961 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-15",
+                    "NAME": "CLAUDIO CORRA'",
+                    "CITTA": "VALERA (VENEZUELA",
+                    "DATA": "20/02/1958 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-16",
+                    "NAME": "ENZA ESPOSITO",
+                    "CITTA": "EMSDETTER",
+                    "DATA": "22/02/1970 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-17",
+                    "NAME": "GUGLIELMO DE PUPPI",
+                    "CITTA": "UDINE",
+                    "DATA": "03/05/1999 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-18",
+                    "NAME": "CHIARA GRASSO",
+                    "CITTA": "LEVERANO (LE",
+                    "DATA": "18/08/1977 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-19",
+                    "NAME": "FRANCESCO DE SABBATA",
+                    "CITTA": "CIVIDALE DEL FRIULI",
+                    "DATA": "07/01/1975 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-20",
+                    "NAME": "ANNA LOMBARDI",
+                    "CITTA": "BIBBIENA",
+                    "DATA": "23/02/1948 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-21",
+                    "NAME": "STEFANO DE CANDIDO",
+                    "CITTA": "VARMO (UD",
+                    "DATA": "05/05/1949 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-22",
+                    "NAME": "MILA MECCHIA",
+                    "CITTA": "UDINE",
+                    "DATA": "04/12/1955 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-23",
+                    "NAME": "ROBERTO DELLA MEA",
+                    "CITTA": "UDINE",
+                    "DATA": "19/12/1970 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-24",
+                    "NAME": "DONATELLA MINEN",
+                    "CITTA": "UDINE",
+                    "DATA": "06/03/1968 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-25",
+                    "NAME": "ALESSANDRO DI GIORGIO",
+                    "CITTA": "UDINE",
+                    "DATA": "22/06/1993 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-26",
+                    "NAME": "ANNALISA MODONUTTI",
+                    "CITTA": "UDINE",
+                    "DATA": "27/03/1984 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-27",
+                    "NAME": "DAVID GALIMI",
+                    "CITTA": "UDINE",
+                    "DATA": "09/04/2000 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-28",
+                    "NAME": "SILVIA RIZZIELLO",
+                    "CITTA": "UDINE",
+                    "DATA": "26/04/1977 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-29",
+                    "NAME": "LIVIO LORENZONI",
+                    "CITTA": "GORIZIA",
+                    "DATA": "11/04/1963 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-30",
+                    "NAME": "CINZIA TURCO",
+                    "CITTA": "UDINE",
+                    "DATA": "04/04/1989 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-31",
+                    "NAME": "SIMONE LUGANO",
+                    "CITTA": "PALMANOVA (UD",
+                    "DATA": "21/08/1988 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-32",
+                    "NAME": "SANDRA ZORZENONE",
+                    "CITTA": "UDINE",
+                    "DATA": "28/01/1964 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-33",
+                    "NAME": "MICHELE PERIS",
+                    "CITTA": "UDINE",
+                    "DATA": "14/10/1989 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-34",
+                    "NAME": "MASSIMILIANO PESSI",
+                    "CITTA": "UDINE",
+                    "DATA": "14/07/1968 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-35",
+                    "NAME": "MARCO VALENTINI",
+                    "CITTA": "UDINE",
+                    "DATA": "17/02/1972 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-36",
+                    "NAME": "VIRGIL VASILIU",
+                    "CITTA": "GALATI (RO",
+                    "DATA": "30/04/1978 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-37",
+                    "NAME": "ROBERTO VENICA",
+                    "CITTA": "UDINE",
+                    "DATA": "10/10/1956 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-38",
+                    "NAME": "GLAUCO VIDA",
+                    "CITTA": "UDINE",
+                    "DATA": "18/10/1970 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-39",
+                    "NAME": "CORRADO VINCITORE",
+                    "CITTA": "NAPOLI",
+                    "DATA": "19/04/1959 "
+                  },
+                  {
+                    "COD": "UDI2-UD9-40",
+                    "NAME": "STEFANO ZAMPA",
+                    "CITTA": "SAN DANIELE DEL FRIULI (UD",
+                    "DATA": "08/05/1989 "
+                  }
+                ]
+
+            }
+          ]
+        },
+        {
+          "codsindaco": "UDI3",
+          "name": "Enrico Bertossi",
+          "liste": [
+            {
+              "codLista": "UDI3-UD10",
+              "nomelista": "Prima Udine",
+              "simbolo": "",
+              "candidati": [
+                {
+                  "COD": "UDI3-UD10-1",
+                  "NAME": "GIOVANNI MARSICO",
+                  "CITTA": "GORIZIA",
+                  "DATA": "07/05/1962 "
+                },
+                {
+                  "COD": "UDI3-UD10-2",
+                  "NAME": "ALESSANDRO BERGHINZ",
+                  "CITTA": "UDINE",
+                  "DATA": "28/02/1947 "
+                },
+                {
+                  "COD": "UDI3-UD10-3",
+                  "NAME": "GIULIANO detto JULIO MONTANA BERLOFFA",
+                  "CITTA": "CIVIDALE DEL FRIULI (UD",
+                  "DATA": "10/05/1983 "
+                },
+                {
+                  "COD": "UDI3-UD10-4",
+                  "NAME": "FRANCESCA BERTOLI",
+                  "CITTA": "UDINE",
+                  "DATA": "19/07/1962 "
+                },
+                {
+                  "COD": "UDI3-UD10-5",
+                  "NAME": "MARTA BIASUTTI",
+                  "CITTA": "UDINE",
+                  "DATA": "26/03/1965 "
+                },
+                {
+                  "COD": "UDI3-UD10-6",
+                  "NAME": "LUISA BINDONI",
+                  "CITTA": "GORIZIA",
+                  "DATA": "04/09/1961 "
+                },
+                {
+                  "COD": "UDI3-UD10-7",
+                  "NAME": "GIANFILIPPO BISOGNI",
+                  "CITTA": "PISA",
+                  "DATA": "06/05/1966 "
+                },
+                {
+                  "COD": "UDI3-UD10-8",
+                  "NAME": "SIMONETTA DAFFARRA",
+                  "CITTA": "UDINE",
+                  "DATA": "02/08/1955 "
+                },
+                {
+                  "COD": "UDI3-UD10-9",
+                  "NAME": "DOUGLAS DE MARCO VALERA EDO",
+                  "CITTA": "TRUJILLO (YV",
+                  "DATA": "21/10/1953 "
+                },
+                {
+                  "COD": "UDI3-UD10-10",
+                  "NAME": "FRANCESCA DELLACASA",
+                  "CITTA": "UDINE",
+                  "DATA": "28/07/1981 "
+                },
+                {
+                  "COD": "UDI3-UD10-11",
+                  "NAME": "ELEONORA di CAPORIACCO",
+                  "CITTA": "SAN DANIELE DEL FRIULI (UD",
+                  "DATA": "25/11/1992 "
+                },
+                {
+                  "COD": "UDI3-UD10-12",
+                  "NAME": "ANDREA FABRIS",
+                  "CITTA": "UDINE",
+                  "DATA": "15/11/1988 "
+                },
+                {
+                  "COD": "UDI3-UD10-13",
+                  "NAME": "FRANCESCO FERRO",
+                  "CITTA": "UDINE",
+                  "DATA": "12/09/1965 "
+                },
+                {
+                  "COD": "UDI3-UD10-14",
+                  "NAME": "TEODORA SILVIA detta DORA",
+                  "CITTA": "FLUTUR ROMANIA",
+                  "DATA": "22/03/1980 "
+                },
+                {
+                  "COD": "UDI3-UD10-15",
+                  "NAME": "SILVIA FORMAIO",
+                  "CITTA": "BOLZANO",
+                  "DATA": "26/03/1968 "
+                },
+                {
+                  "COD": "UDI3-UD10-16",
+                  "NAME": "GIORGIO FRASSETTO",
+                  "CITTA": "UDINE",
+                  "DATA": "06/08/1950 "
+                },
+                {
+                  "COD": "UDI3-UD10-17",
+                  "NAME": "MARZIA GORINI",
+                  "CITTA": "GORIZIA",
+                  "DATA": "26/04/1955 "
+                },
+                {
+                  "COD": "UDI3-UD10-18",
+                  "NAME": "STEFANO GOS",
+                  "CITTA": "UDINE",
+                  "DATA": "17/08/1964 "
+                },
+                {
+                  "COD": "UDI3-UD10-19",
+                  "NAME": "EMANUELA LORENZUTTI in PARODI",
+                  "CITTA": "CIVIDALE DEL FRIULI",
+                  "DATA": "01/08/1973 "
+                },
+                {
+                  "COD": "UDI3-UD10-20",
+                  "NAME": "ADRIANO LUALDI",
+                  "CITTA": "CODROIPO (UD",
+                  "DATA": "26/01/1945 "
+                },
+                {
+                  "COD": "UDI3-UD10-21",
+                  "NAME": "LAURA MANSUTTI",
+                  "CITTA": "UDINE",
+                  "DATA": "24/10/1965 "
+                },
+                {
+                  "COD": "UDI3-UD10-22",
+                  "NAME": "SERGIO MARINI",
+                  "CITTA": "UDINE",
+                  "DATA": "15/07/1948 "
+                },
+                {
+                  "COD": "UDI3-UD10-23",
+                  "NAME": "LIVIO MASTROROSA B",
+                  "CITTA": "ASILEA (CH",
+                  "DATA": "27/04/1985 "
+                },
+                {
+                  "COD": "UDI3-UD10-24",
+                  "NAME": "MICHELA MAURO",
+                  "CITTA": "UDINE",
+                  "DATA": "11/05/1989 "
+                },
+                {
+                  "COD": "UDI3-UD10-25",
+                  "NAME": "FAISAL UDDIN MOHAMMAD",
+                  "CITTA": "DHAKA (BD",
+                  "DATA": "15/10/1980 "
+                },
+                {
+                  "COD": "UDI3-UD10-26",
+                  "NAME": "CRISTIANA NICOLETTI",
+                  "CITTA": "UDINE",
+                  "DATA": "10/04/1965 "
+                },
+                {
+                  "COD": "UDI3-UD10-27",
+                  "NAME": "LORENZO PEGORARO",
+                  "CITTA": "UDINE",
+                  "DATA": "06/05/1975 "
+                },
+                {
+                  "COD": "UDI3-UD10-28",
+                  "NAME": "ANNAMARIA PERUCH",
+                  "CITTA": "UDINE",
+                  "DATA": "26/05/1957 "
+                },
+                {
+                  "COD": "UDI3-UD10-29",
+                  "NAME": "GIANCARLO PIUBELLO",
+                  "CITTA": "UDINE",
+                  "DATA": "05/02/1956 "
+                },
+                {
+                  "COD": "UDI3-UD10-30",
+                  "NAME": "BRUNO RONCO",
+                  "CITTA": "UDINE",
+                  "DATA": "29/03/1946 "
+                },
+                {
+                  "COD": "UDI3-UD10-31",
+                  "NAME": "ESTER SORAMEL",
+                  "CITTA": "UDINE",
+                  "DATA": "24/08/1974 "
+                },
+                {
+                  "COD": "UDI3-UD10-32",
+                  "NAME": "ALESSANDRA SPIZZO",
+                  "CITTA": "UDINE",
+                  "DATA": "18/03/1959 "
+                },
+                {
+                  "COD": "UDI3-UD10-33",
+                  "NAME": "ALESSANDRA STELLA",
+                  "CITTA": "LODI",
+                  "DATA": "30/08/1964 "
+                },
+                {
+                  "COD": "UDI3-UD10-34",
+                  "NAME": "CARMEN STRAZZERI",
+                  "CITTA": "UDINE",
+                  "DATA": "29/10/1966 "
+                },
+                {
+                  "COD": "UDI3-UD10-35",
+                  "NAME": "DANIELE STRIZZOLO",
+                  "CITTA": "PALMANOVA (UD",
+                  "DATA": "16/01/1958 "
+                },
+                {
+                  "COD": "UDI3-UD10-36",
+                  "NAME": "PAOLA TAM in TABACCHI",
+                  "CITTA": "UDINE",
+                  "DATA": "17/08/1974 "
+                },
+                {
+                  "COD": "UDI3-UD10-37",
+                  "NAME": "MARIA TOMAT",
+                  "CITTA": "UDINE",
+                  "DATA": "05/03/1965 "
+                },
+                {
+                  "COD": "UDI3-UD10-38",
+                  "NAME": "MIAHI TUDOR",
+                  "CITTA": "ROMANIA",
+                  "DATA": "02/10/1974 "
+                },
+                {
+                  "COD": "UDI3-UD10-39",
+                  "NAME": "MARIO VICEDOMINI",
+                  "CITTA": "UDINE",
+                  "DATA": "09/03/1957 "
+                },
+                {
+                  "COD": "UDI3-UD10-40",
+                  "NAME": "PAOLA ZILLI",
+                  "CITTA": "UDINE",
+                  "DATA": "10/03/1951"
+                }
+              ]
+            },
+            {
+              "codLista": "UD11",
+              "nomelista": "Friuli Futuro",
+              "simbolo": "",
+              "candidati": [
+                {
+                  "COD": "UDI3-UD11-1",
+                  "NAME": "LORENZO POLENTES",
+                  "CITTA": "PADOVA",
+                  "DATA": "25/09/1988 "
+                },
+                {
+                  "COD": "UDI3-UD11-2",
+                  "NAME": "MASSIMO ANTONINI",
+                  "CITTA": "TRIESTE",
+                  "DATA": "26/10/1985 "
+                },
+                {
+                  "COD": "UDI3-UD11-3",
+                  "NAME": "SABRINA BARILE",
+                  "CITTA": "UDINE",
+                  "DATA": "16/07/1970 "
+                },
+                {
+                  "COD": "UDI3-UD11-4",
+                  "NAME": "MARCO BIGOTTI",
+                  "CITTA": "UDINE",
+                  "DATA": "27/10/1963 "
+                },
+                {
+                  "COD": "UDI3-UD11-5",
+                  "NAME": "LEOPOLDO BONETTI",
+                  "CITTA": "PADOVA",
+                  "DATA": "15/10/1946 "
+                },
+                {
+                  "COD": "UDI3-UD11-6",
+                  "NAME": "STEFANO CARNELUTTI",
+                  "CITTA": "UDINE",
+                  "DATA": "10/01/1965 "
+                },
+                {
+                  "COD": "UDI3-UD11-7",
+                  "NAME": "CRISTINA CASARSA",
+                  "CITTA": "UDINE",
+                  "DATA": "13/03/1968 "
+                },
+                {
+                  "COD": "UDI3-UD11-8",
+                  "NAME": "ELISA DE SIMON",
+                  "CITTA": "SAN DANIELE DEL FRIULI",
+                  "DATA": "16/07/1973 "
+                },
+                {
+                  "COD": "UDI3-UD11-9",
+                  "NAME": "GABRIELE DORIGO",
+                  "CITTA": "CIVIDALE DEL FRIULI",
+                  "DATA": "17/09/1975 "
+                },
+                {
+                  "COD": "UDI3-UD11-10",
+                  "NAME": "GIANCARLO FUMUSO",
+                  "CITTA": "GEMONA DEL FRIULI",
+                  "DATA": "08/08/1983 "
+                },
+                {
+                  "COD": "UDI3-UD11-11",
+                  "NAME": "ARIANNA FURFARI",
+                  "CITTA": "REGGIO DI CALABRIA",
+                  "DATA": "17/10/1985 "
+                },
+                {
+                  "COD": "UDI3-UD11-12",
+                  "NAME": "MICOL FURLANIS",
+                  "CITTA": "SPILIMBERGO",
+                  "DATA": "25/01/1988 "
+                },
+                {
+                  "COD": "UDI3-UD11-13",
+                  "NAME": "FRANCESCA GALOTTO",
+                  "CITTA": "UDINE",
+                  "DATA": "07/02/1946 "
+                },
+                {
+                  "COD": "UDI3-UD11-14",
+                  "NAME": "ANNA LIUS DELLA PIETA'",
+                  "CITTA": "UDINE",
+                  "DATA": "10/11/1963 "
+                },
+                {
+                  "COD": "UDI3-UD11-15",
+                  "NAME": "DANIELA MARESCHI",
+                  "CITTA": "UDINE",
+                  "DATA": "04/09/1955 "
+                },
+                {
+                  "COD": "UDI3-UD11-16",
+                  "NAME": "DANIELE MARINI",
+                  "CITTA": "UDINE",
+                  "DATA": "22/08/1961 "
+                },
+                {
+                  "COD": "UDI3-UD11-17",
+                  "NAME": "ADRIANO MAULE",
+                  "CITTA": "VENEZIA",
+                  "DATA": "10/05/1966 "
+                },
+                {
+                  "COD": "UDI3-UD11-18",
+                  "NAME": "MASSIMILIANO MAURIG",
+                  "CITTA": "GORIZIA",
+                  "DATA": "18/10/1972 "
+                },
+                {
+                  "COD": "UDI3-UD11-19",
+                  "NAME": "ALESSIO MELZI",
+                  "CITTA": "GORIZIA",
+                  "DATA": "15/10/1968 "
+                },
+                {
+                  "COD": "UDI3-UD11-20",
+                  "NAME": "MONICA MISSANA",
+                  "CITTA": "TOLMEZZO (UD",
+                  "DATA": "05/11/1969 "
+                },
+                {
+                  "COD": "UDI3-UD11-21",
+                  "NAME": "ANDREA NONINO",
+                  "CITTA": "UDINE",
+                  "DATA": "04/01/1973 "
+                },
+                {
+                  "COD": "UDI3-UD11-22",
+                  "NAME": "VIVIANA MANUELA OLIVATTI",
+                  "CITTA": "CIUDAD OJEDA (YV",
+                  "DATA": "04/08/1961 "
+                },
+                {
+                  "COD": "UDI3-UD11-23",
+                  "NAME": "ELISABETTA PAVIOTTI",
+                  "CITTA": "UDINE",
+                  "DATA": "11/10/1976 "
+                },
+                {
+                  "COD": "UDI3-UD11-24",
+                  "NAME": "PAOLA PETRAZZO",
+                  "CITTA": "LATISANA (UD",
+                  "DATA": "26/06/1978 "
+                },
+                {
+                  "COD": "UDI3-UD11-25",
+                  "NAME": "PAOLO PIVIDORI",
+                  "CITTA": "MORUZZO",
+                  "DATA": "21/04/1949 "
+                },
+                {
+                  "COD": "UDI3-UD11-26",
+                  "NAME": "FABIO SANTINI",
+                  "CITTA": "UDINE",
+                  "DATA": "31/03/1963 "
+                },
+                {
+                  "COD": "UDI3-UD11-27",
+                  "NAME": "ALBERTO SIGNORATO",
+                  "CITTA": "SAN BONIFACIO (VR",
+                  "DATA": "26/07/1968 "
+                },
+                {
+                  "COD": "UDI3-UD11-28",
+                  "NAME": "FRANCESCA TONINI",
+                  "CITTA": "UDINE",
+                  "DATA": "28/06/1959 "
+                },
+                {
+                  "COD": "UDI3-UD11-29",
+                  "NAME": "MICHELE TUAN",
+                  "CITTA": "UDINE",
+                  "DATA": "17/04/1974 "
+                },
+                {
+                  "COD": "UDI3-UD11-30",
+                  "NAME": "ANDREA VICEDOMINI",
+                  "CITTA": "UDINE",
+                  "DATA": "01/11/1952"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "codsindaco": "UDI4",
+          "name": "Stefano Salmè",
+          "liste": [
+            {
+              "codLista": "UDI4-UD12",
+              "nomelista": "Io amo Udine",
+              "simbolo": "",
+              "candidati": [
+                {
+                  "COD": "UDI4-UD12-1",
+                  "NAME": "ROSSELLA ANTICOLI",
+                  "CITTA": "GHEDI (BS",
+                  "DATA": "17/12/1957 "
+                },
+                {
+                  "COD": "UDI4-UD12-2",
+                  "NAME": "GIORGIO AZZINI",
+                  "CITTA": "UDINE",
+                  "DATA": "24/03/1960 "
+                },
+                {
+                  "COD": "UDI4-UD12-3",
+                  "NAME": "GAETANO BARBAROTTA",
+                  "CITTA": "PALERMO",
+                  "DATA": "16/05/1971 "
+                },
+                {
+                  "COD": "UDI4-UD12-4",
+                  "NAME": "PATRIZIA BARILE",
+                  "CITTA": "GORIZIA",
+                  "DATA": "11/09/1963 "
+                },
+                {
+                  "COD": "UDI4-UD12-5",
+                  "NAME": "ANNALISA BATTIGELLI",
+                  "CITTA": "UDINE",
+                  "DATA": "29/11/1975 "
+                },
+                {
+                  "COD": "UDI4-UD12-6",
+                  "NAME": "LORIS BIANCO",
+                  "CITTA": "UDINE",
+                  "DATA": "04/03/1974 "
+                },
+                {
+                  "COD": "UDI4-UD12-7",
+                  "NAME": "MASSIMO BLASUTTO",
+                  "CITTA": "UDINE",
+                  "DATA": "26/06/1967 "
+                },
+                {
+                  "COD": "UDI4-UD12-8",
+                  "NAME": "MARIA BONIFACIO",
+                  "CITTA": "UDINE",
+                  "DATA": "18/01/1989 "
+                },
+                {
+                  "COD": "UDI4-UD12-9",
+                  "NAME": "IVANA BURELLO",
+                  "CITTA": "UDINE",
+                  "DATA": "21/02/1963 "
+                },
+                {
+                  "COD": "UDI4-UD12-10",
+                  "NAME": "ENRICO D'ADDABBO",
+                  "CITTA": "UDINE",
+                  "DATA": "07/11/1964 "
+                },
+                {
+                  "COD": "UDI4-UD12-11",
+                  "NAME": "MICHELA DEGANO",
+                  "CITTA": "UDINE",
+                  "DATA": "08/12/1969 "
+                },
+                {
+                  "COD": "UDI4-UD12-12",
+                  "NAME": "MAURIZIO DEL TORRE",
+                  "CITTA": "UDINE",
+                  "DATA": "19/12/1963 "
+                },
+                {
+                  "COD": "UDI4-UD12-13",
+                  "NAME": "ROGER DI LENARDO",
+                  "CITTA": "GEMONA DEL FRIULI (UD",
+                  "DATA": "09/04/1965 "
+                },
+                {
+                  "COD": "UDI4-UD12-14",
+                  "NAME": "DOMENICO DI SARNO",
+                  "CITTA": "TEVEROLA (CE",
+                  "DATA": "17/04/1965 "
+                },
+                {
+                  "COD": "UDI4-UD12-15",
+                  "NAME": "SVETLANA DONEA",
+                  "CITTA": "STEFAN-VODA (MD",
+                  "DATA": "05/12/1972 "
+                },
+                {
+                  "COD": "UDI4-UD12-16",
+                  "NAME": "CRISTIAN FERUGLIO",
+                  "CITTA": "UDINE",
+                  "DATA": "17/06/1974 "
+                },
+                {
+                  "COD": "UDI4-UD12-17",
+                  "NAME": "PRISCILLA GOIACH",
+                  "CITTA": "MONFALCONE (GO",
+                  "DATA": "30/08/1974 "
+                },
+                {
+                  "COD": "UDI4-UD12-18",
+                  "NAME": "EURO GORI",
+                  "CITTA": "MONFALCONE",
+                  "DATA": "11/10/1963 "
+                },
+                {
+                  "COD": "UDI4-UD12-19",
+                  "NAME": "DAVIDE GORIZZIZZO",
+                  "CITTA": "UDINE",
+                  "DATA": "19/02/1962 "
+                },
+                {
+                  "COD": "UDI4-UD12-20",
+                  "NAME": "MATTEO LODOLO",
+                  "CITTA": "UDINE",
+                  "DATA": "03/05/1973 "
+                },
+                {
+                  "COD": "UDI4-UD12-21",
+                  "NAME": "RICCARDO LORUSSO",
+                  "CITTA": "BARI",
+                  "DATA": "11/09/1975 "
+                },
+                {
+                  "COD": "UDI4-UD12-22",
+                  "NAME": "VOLVENO LUCCA",
+                  "CITTA": "UDINE",
+                  "DATA": "04/06/1961 "
+                },
+                {
+                  "COD": "UDI4-UD12-23",
+                  "NAME": "ADRIANO MARCHETTI",
+                  "CITTA": "UDINE",
+                  "DATA": "16/03/1960 "
+                },
+                {
+                  "COD": "UDI4-UD12-24",
+                  "NAME": "DARIO MARTELLO",
+                  "CITTA": "CATANIA",
+                  "DATA": "07/02/1968 "
+                },
+                {
+                  "COD": "UDI4-UD12-25",
+                  "NAME": "VIVIANA MASIERO",
+                  "CITTA": "UDINE",
+                  "DATA": "07/09/1961 "
+                },
+                {
+                  "COD": "UDI4-UD12-26",
+                  "NAME": "ROBERTO MAZZONETTO",
+                  "CITTA": "FOSSALTA DI PIAVE (VE",
+                  "DATA": "08/11/1957 "
+                },
+                {
+                  "COD": "UDI4-UD12-27",
+                  "NAME": "ALESSANDRO NADALINI",
+                  "CITTA": "UDINE",
+                  "DATA": "27/07/1963 "
+                },
+                {
+                  "COD": "UDI4-UD12-28",
+                  "NAME": "LOREDANA NAVARRA",
+                  "CITTA": "BARI",
+                  "DATA": "24/11/1977 "
+                },
+                {
+                  "COD": "UDI4-UD12-29",
+                  "NAME": "AURELIO PARASOLE",
+                  "CITTA": "CERVIGNANO DEL FRIULI (UD",
+                  "DATA": "16/06/1954 "
+                },
+                {
+                  "COD": "UDI4-UD12-30",
+                  "NAME": "MASSIMO POLESELLO",
+                  "CITTA": "UDINE",
+                  "DATA": "10/06/1965 "
+                },
+                {
+                  "COD": "UDI4-UD12-31",
+                  "NAME": "DANIELA PERISSUTTI",
+                  "CITTA": "UDINE",
+                  "DATA": "18/02/1974 "
+                },
+                {
+                  "COD": "UDI4-UD12-32",
+                  "NAME": "MONICA QUICCIONE",
+                  "CITTA": "MILANO",
+                  "DATA": "27/06/1968 "
+                },
+                {
+                  "COD": "UDI4-UD12-33",
+                  "NAME": "BARBARA SABBADINI",
+                  "CITTA": "MARTIGNACCO (UD",
+                  "DATA": "04/08/1965 "
+                },
+                {
+                  "COD": "UDI4-UD12-34",
+                  "NAME": "MARCELLINA SCUBLA",
+                  "CITTA": "MOYEUVRE (F",
+                  "DATA": "07/05/1957 "
+                },
+                {
+                  "COD": "UDI4-UD12-35",
+                  "NAME": "AGRON SELA",
+                  "CITTA": "TIRANE (AL",
+                  "DATA": "05/09/1965 "
+                },
+                {
+                  "COD": "UDI4-UD12-36",
+                  "NAME": "MICHELINA SORIANO",
+                  "CITTA": "AVELLA (AV",
+                  "DATA": "15/01/1969 "
+                },
+                {
+                  "COD": "UDI4-UD12-37",
+                  "NAME": "ANDREA TEMPO",
+                  "CITTA": "UDINE",
+                  "DATA": "27/12/1966 "
+                },
+                {
+                  "COD": "UDI4-UD12-38",
+                  "NAME": "TIZIANO TULISSO",
+                  "CITTA": "UDINE",
+                  "DATA": "21/08/1976 "
+                },
+                {
+                  "COD": "UDI4-UD12-39",
+                  "NAME": "MARCO ZANON",
+                  "CITTA": "UDINE",
+                  "DATA": "07/11/1974 "
+                },
+                {
+                  "COD": "UDI4-UD12-40",
+                  "NAME": "MARINA ZAROUBINA",
+                  "CITTA": "MINSK (BLR",
+                  "DATA": "25/04/1963"
+                }
+              ]
+            },
+            {
+              "codLista": "UD13",
+              "nomelista": "Udine agli udinesi",
+              "simbolo": "",
+              "candidati": [
+                {
+                  "COD": "UDI4-UD13-1",
+                  "NAME": "MATTEO MICOLI",
+                  "CITTA": "UDINE",
+                  "DATA": "10/11/1972 "
+                },
+                {
+                  "COD": "UDI4-UD13-2",
+                  "NAME": "MARINA COCCATO",
+                  "CITTA": "CIVIDALE DEL FRIULI (UD",
+                  "DATA": "21/10/1975 "
+                },
+                {
+                  "COD": "UDI4-UD13-3",
+                  "NAME": "ARIANNA LI CAUSI",
+                  "CITTA": "UDINE",
+                  "DATA": "19/11/1997 "
+                },
+                {
+                  "COD": "UDI4-UD13-4",
+                  "NAME": "HASMIK GHAZARYAN",
+                  "CITTA": "EREVAN (ARM",
+                  "DATA": "20/02/1957 "
+                },
+                {
+                  "COD": "UDI4-UD13-5",
+                  "NAME": "MASSIMILIANO BATTELLO",
+                  "CITTA": "UDINE",
+                  "DATA": "18/09/1970 "
+                },
+                {
+                  "COD": "UDI4-UD13-6",
+                  "NAME": "NADIA TOMASINO",
+                  "CITTA": "PALERMO",
+                  "DATA": "29/10/1979 "
+                },
+                {
+                  "COD": "UDI4-UD13-7",
+                  "NAME": "IVAN SIBILLA",
+                  "CITTA": "UDINE",
+                  "DATA": "29/01/1981 "
+                },
+                {
+                  "COD": "UDI4-UD13-8",
+                  "NAME": "MATTEO LIOTTI",
+                  "CITTA": "NOVARA",
+                  "DATA": "31/07/1989 "
+                },
+                {
+                  "COD": "UDI4-UD13-9",
+                  "NAME": "ANGELO MECCA",
+                  "CITTA": "POTENZA",
+                  "DATA": "21/11/1967 "
+                },
+                {
+                  "COD": "UDI4-UD13-10",
+                  "NAME": "GIOVANNA MARCHINA",
+                  "CITTA": "ALASSIO (SV",
+                  "DATA": "14/11/1965 "
+                },
+                {
+                  "COD": "UDI4-UD13-11",
+                  "NAME": "GIOVANNI COSS",
+                  "CITTA": "UDINE",
+                  "DATA": "17/01/1967 "
+                },
+                {
+                  "COD": "UDI4-UD13-12",
+                  "NAME": "DINO BORGOBELLO",
+                  "CITTA": "NAMUR (B",
+                  "DATA": "31/08/1956 "
+                },
+                {
+                  "COD": "UDI4-UD13-13",
+                  "NAME": "ROCCO STASI",
+                  "CITTA": "POTENZA",
+                  "DATA": "04/06/1983 "
+                },
+                {
+                  "COD": "UDI4-UD13-14",
+                  "NAME": "MANLIO BUTTAZZONI",
+                  "CITTA": "UDINE",
+                  "DATA": "17/02/1962 "
+                },
+                {
+                  "COD": "UDI4-UD13-15",
+                  "NAME": "ANNA SUSY BELLINA",
+                  "CITTA": "GEMONA DEL FRIULI (UD",
+                  "DATA": "23/02/1953 "
+                },
+                {
+                  "COD": "UDI4-UD13-16",
+                  "NAME": "DANIELE BULFONE",
+                  "CITTA": "UDINE",
+                  "DATA": "23/01/1970 "
+                },
+                {
+                  "COD": "UDI4-UD13-17",
+                  "NAME": "ANTONIO MINENNA",
+                  "CITTA": "TORINO",
+                  "DATA": "22/08/1976 "
+                },
+                {
+                  "COD": "UDI4-UD13-18",
+                  "NAME": "MAURIZIO BONALDO",
+                  "CITTA": "MIRANO (VE",
+                  "DATA": "11/06/1960 "
+                },
+                {
+                  "COD": "UDI4-UD13-19",
+                  "NAME": "ANTONELLA DE PAOLI",
+                  "CITTA": "UDINE",
+                  "DATA": "31/05/1960 "
+                },
+                {
+                  "COD": "UDI4-UD13-20",
+                  "NAME": "ELENA STANESCU",
+                  "CITTA": "BUCAREST (ROMANIA",
+                  "DATA": "25/07/1974 "
+                },
+                {
+                  "COD": "UDI4-UD13-21",
+                  "NAME": "LUCIANO FLORENIN",
+                  "CITTA": "GORIZIA",
+                  "DATA": "11/04/1960 "
+                },
+                {
+                  "COD": "UDI4-UD13-22",
+                  "NAME": "LUCIANO ZULIAN",
+                  "CITTA": "UDINE",
+                  "DATA": "27/04/1962 "
+                },
+                {
+                  "COD": "UDI4-UD13-23",
+                  "NAME": "MARILENA SCIAN",
+                  "CITTA": "PORDENONE",
+                  "DATA": "04/06/1972 "
+                },
+                {
+                  "COD": "UDI4-UD13-24",
+                  "NAME": "ALINA RUDENKO",
+                  "CITTA": "PETROVE (UKR",
+                  "DATA": "26/07/1966 "
+                },
+                {
+                  "COD": "UDI4-UD13-25",
+                  "NAME": "ZITA HORNOK",
+                  "CITTA": "TAPOLCA (H",
+                  "DATA": "15/10/1967 "
+                },
+                {
+                  "COD": "UDI4-UD13-26",
+                  "NAME": "ENRICO PASSAPONTI",
+                  "CITTA": "UDINE",
+                  "DATA": "30/11/1964 "
+                },
+                {
+                  "COD": "UDI4-UD13-27",
+                  "NAME": "CLAUDIO MARCHIOLI",
+                  "CITTA": "UDINE",
+                  "DATA": "16/06/1973 "
+                },
+                {
+                  "COD": "UDI4-UD13-28",
+                  "NAME": "MIRKO ORGNACCO",
+                  "CITTA": "UDINE",
+                  "DATA": "13/01/1989 "
+                },
+                {
+                  "COD": "UDI4-UD13-29",
+                  "NAME": "ANTONINA LORE",
+                  "CITTA": "CARONIA (ME",
+                  "DATA": "17/03/1966 "
+                },
+                {
+                  "COD": "UDI4-UD13-30",
+                  "NAME": "CHIARA VISINTINI",
+                  "CITTA": "GRADO (GO",
+                  "DATA": "30/12/1976 "
+                },
+                {
+                  "COD": "UDI4-UD13-31",
+                  "NAME": "GIORGIO CLEMENTE",
+                  "CITTA": "GEMONA DEL FRIULI (UD",
+                  "DATA": "04/01/1988 "
+                },
+                {
+                  "COD": "UDI4-UD13-32",
+                  "NAME": "CRISTIAN MASULLO",
+                  "CITTA": "PALMANOVA (UD",
+                  "DATA": "03/01/1973 "
+                },
+                {
+                  "COD": "UDI4-UD13-33",
+                  "NAME": "SUSANNA MARCHESAN",
+                  "CITTA": "MONFALCONE",
+                  "DATA": "28/08/1985 "
+                },
+                {
+                  "COD": "UDI4-UD13-34",
+                  "NAME": "MASSIMILIANO BASSO",
+                  "CITTA": "CIVIDALE DEL FRIULI (UD",
+                  "DATA": "24/09/1974 "
+                },
+                {
+                  "COD": "UDI4-UD13-35",
+                  "NAME": "LOREDANA FERRO",
+                  "CITTA": "COSENZA",
+                  "DATA": "12/10/1970 "
+                },
+                {
+                  "COD": "UDI4-UD13-36",
+                  "NAME": "EMILIO LAVARONE",
+                  "CITTA": "CAEN (F",
+                  "DATA": "06/12/1956 "
+                },
+                {
+                  "COD": "UDI4-UD13-37",
+                  "NAME": "COSTANTINO LA MARCA",
+                  "CITTA": "SAN GIOVANNI ROTONDO (FG",
+                  "DATA": "28/09/1976 "
+                },
+                {
+                  "COD": "UDI4-UD13-38",
+                  "NAME": "MIRJANA BRESKOVIC",
+                  "CITTA": "SPALATO (YU",
+                  "DATA": "10/10/1959"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "codsindaco": "UDI5",
+          "name": "Pompea Maria Rosaria Capozzi",
+          "liste": [
+            {
+              "codLista": "UDI5-UD14",
+              "nomelista": "Movimento 5 Stelle",
+              "simbolo": "",
+              "candidati": [
+                {
+                  "COD": "UDI5-UD14-1",
+                  "NAME": "GIUSEPPE VILLOTTA",
+                  "CITTA": "UDINE",
+                  "DATA": "11/05/1951 "
+                },
+                {
+                  "COD": "UDI5-UD14-2",
+                  "NAME": "LORENZO BALLOCH",
+                  "CITTA": "UDINE",
+                  "DATA": "23/02/1976 "
+                },
+                {
+                  "COD": "UDI5-UD14-3",
+                  "NAME": "GIOVANNI BERTINI",
+                  "CITTA": "UDINE",
+                  "DATA": "30/12/1972 "
+                },
+                {
+                  "COD": "UDI5-UD14-4",
+                  "NAME": "GRAZIA MARIA BIONDI",
+                  "CITTA": "CATANIA",
+                  "DATA": "24/08/1975 "
+                },
+                {
+                  "COD": "UDI5-UD14-5",
+                  "NAME": "FEDERICO BOSCOLO",
+                  "CITTA": "UDINE",
+                  "DATA": "07/08/1974 "
+                },
+                {
+                  "COD": "UDI5-UD14-6",
+                  "NAME": "MARCO CARPENTIERI",
+                  "CITTA": "UDINE",
+                  "DATA": "06/01/1973 "
+                },
+                {
+                  "COD": "UDI5-UD14-7",
+                  "NAME": "STEFANO CLAUTI",
+                  "CITTA": "UDINE",
+                  "DATA": "02/09/1960 "
+                },
+                {
+                  "COD": "UDI5-UD14-8",
+                  "NAME": "ANTONIO COMELLI",
+                  "CITTA": "UDINE",
+                  "DATA": "26/02/1985 "
+                },
+                {
+                  "COD": "UDI5-UD14-9",
+                  "NAME": "MARIASTEFANIA DAL PIN",
+                  "CITTA": "CONEGLIANO (TV",
+                  "DATA": "26/12/1980 "
+                },
+                {
+                  "COD": "UDI5-UD14-10",
+                  "NAME": "ANGELO DANELAZZO",
+                  "CITTA": "GONARS (UD",
+                  "DATA": "29/06/1950 "
+                },
+                {
+                  "COD": "UDI5-UD14-11",
+                  "NAME": "SAULA DE CLARA",
+                  "CITTA": "UDINE",
+                  "DATA": "14/08/1973 "
+                },
+                {
+                  "COD": "UDI5-UD14-12",
+                  "NAME": "FLAVIO DEGANO",
+                  "CITTA": "TARVISIO (UD",
+                  "DATA": "05/06/1960 "
+                },
+                {
+                  "COD": "UDI5-UD14-13",
+                  "NAME": "CORRADO DELLA LIBERA",
+                  "CITTA": "PIEVE DI CADORE (BL",
+                  "DATA": "19/04/1948 "
+                },
+                {
+                  "COD": "UDI5-UD14-14",
+                  "NAME": "DANIELA DE MEZZO",
+                  "CITTA": "TARCENTO (UD",
+                  "DATA": "24/07/1949 "
+                },
+                {
+                  "COD": "UDI5-UD14-15",
+                  "NAME": "PAOLO DRI",
+                  "CITTA": "UDINE",
+                  "DATA": "23/07/1961 "
+                },
+                {
+                  "COD": "UDI5-UD14-16",
+                  "NAME": "ORIANA DROSGHIG",
+                  "CITTA": "GORIZIA",
+                  "DATA": "03/11/1964 "
+                },
+                {
+                  "COD": "UDI5-UD14-17",
+                  "NAME": "CARLO FABBRO",
+                  "CITTA": "BASILIANO (UD",
+                  "DATA": "01/10/1944 "
+                },
+                {
+                  "COD": "UDI5-UD14-18",
+                  "NAME": "FRANCESCA FARISCO",
+                  "CITTA": "UDINE",
+                  "DATA": "20/11/1967 "
+                },
+                {
+                  "COD": "UDI5-UD14-19",
+                  "NAME": "DOMENICO LIANO",
+                  "CITTA": "DETROIT (USA",
+                  "DATA": "20/01/1969 "
+                },
+                {
+                  "COD": "UDI5-UD14-20",
+                  "NAME": "MICHELA LONGO",
+                  "CITTA": "TRIESTE",
+                  "DATA": "11/05/1963 "
+                },
+                {
+                  "COD": "UDI5-UD14-21",
+                  "NAME": "GINA MARQUARDI",
+                  "CITTA": "UDINE",
+                  "DATA": "07/09/1959 "
+                },
+                {
+                  "COD": "UDI5-UD14-22",
+                  "NAME": "MANUELA MARTINIS",
+                  "CITTA": "TOLMEZZO (UD",
+                  "DATA": "01/07/1953 "
+                },
+                {
+                  "COD": "UDI5-UD14-23",
+                  "NAME": "RAFFAELE MAZZOTTI",
+                  "CITTA": "MONFALCONE (GO",
+                  "DATA": "28/10/1981 "
+                },
+                {
+                  "COD": "UDI5-UD14-24",
+                  "NAME": "DENNY MORGILLO",
+                  "CITTA": "CORMONS (GO",
+                  "DATA": "04/09/1975 "
+                },
+                {
+                  "COD": "UDI5-UD14-25",
+                  "NAME": "VIVIANA PUPPIN",
+                  "CITTA": "CIVIDALE DEL FRIULI (UD",
+                  "DATA": "08/02/1982 "
+                },
+                {
+                  "COD": "UDI5-UD14-26",
+                  "NAME": "PIETRO RUGO",
+                  "CITTA": "SPILIMBERGO (PN",
+                  "DATA": "15/01/1972 "
+                },
+                {
+                  "COD": "UDI5-UD14-27",
+                  "NAME": "PATRICIJA TREMUL",
+                  "CITTA": "CAPODISTRIA",
+                  "DATA": "24/09/1960 "
+                },
+                {
+                  "COD": "UDI5-UD14-28",
+                  "NAME": "CHRISTIANNA ZARIO detto CHRISTIAN",
+                  "CITTA": "VASCIARELLI LATISANA (UD",
+                  "DATA": "26/04"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "codsindaco": "UDI6",
+          "name": "Andrea Valcic",
+          "liste": [
+            {
+              "codLista": "UDI6-UD15",
+              "nomelista": "Patto per Udine",
+              "simbolo": "",
+              "candidati": [
+                {
+                  "COD": "UDI6-UD15-1",
+                  "NAME": "Lucia Burello",
+                  "CITTA": "Udine",
+                  "DATA": "24/08/1969",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-2",
+                  "NAME": "Sandro Fabbro",
+                  "CITTA": "Udine",
+                  "DATA": "04/02/1953",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-3",
+                  "NAME": "Barbara Melilla",
+                  "CITTA": "Milano",
+                  "DATA": "01/03/1968",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-4",
+                  "NAME": "Sergio De Prophetis",
+                  "CITTA": "Pagnacco",
+                  "DATA": "08/08/1952",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-5",
+                  "NAME": "Elisabetta Passone",
+                  "CITTA": "San Daniele",
+                  "DATA": "27/06/1992",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-6",
+                  "NAME": "Carletto Rizzi",
+                  "CITTA": "Udine",
+                  "DATA": "05/11/1952",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-7",
+                  "NAME": "Stefania Garlatti-Costa",
+                  "CITTA": "Udine",
+                  "DATA": "08/07/1963",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-8",
+                  "NAME": "Matteo Comelli",
+                  "CITTA": "Udine",
+                  "DATA": "30/11/1979",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-9",
+                  "NAME": "Anna Mulinaris",
+                  "CITTA": "Udine",
+                  "DATA": "05/07/1961",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-10",
+                  "NAME": "Oscar Olivo",
+                  "CITTA": "Udine",
+                  "DATA": "12/02/1956",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-11",
+                  "NAME": "Tiziana Tomat",
+                  "CITTA": "Udine",
+                  "DATA": "29/08/1974",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-12",
+                  "NAME": "Alessandro Carrozzo",
+                  "CITTA": "Udine",
+                  "DATA": "15/06/1975",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-13",
+                  "NAME": "Roberta Michieli",
+                  "CITTA": "Udine",
+                  "DATA": "02/12/1947",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-14",
+                  "NAME": "Gianni Nazzi",
+                  "CITTA": "Udine",
+                  "DATA": "30/06/1932",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-15",
+                  "NAME": "Michelini Cadali detta Michela",
+                  "CITTA": "Pasian di Prato",
+                  "DATA": "01/06/1943",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-16",
+                  "NAME": "Andrea Venier",
+                  "CITTA": "Tolmezzo",
+                  "DATA": "15/06/1967",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-17",
+                  "NAME": "Giulia Varutti",
+                  "CITTA": "San Daniele",
+                  "DATA": "16/10/1984",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-18",
+                  "NAME": "Sergio Fantini",
+                  "CITTA": "Udine",
+                  "DATA": "07/08/1955",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-19",
+                  "NAME": "Maria Bulfoni detta Fernanda",
+                  "CITTA": "Udine",
+                  "DATA": "22/05/1940",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-20",
+                  "NAME": "Paolo Galliussi",
+                  "CITTA": "Liegi (Belgio",
+                  "DATA": "05/05/1956",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-21",
+                  "NAME": "Marisa Clochiatti",
+                  "CITTA": "Povoletto",
+                  "DATA": "13/01/1952",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-22",
+                  "NAME": "Alessio Persic",
+                  "CITTA": "Udine",
+                  "DATA": "09/01/1952",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-23",
+                  "NAME": "Ambra Minisini",
+                  "CITTA": "San Daniele",
+                  "DATA": "24/06/1978",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-24",
+                  "NAME": "Fabrizio Geppini",
+                  "CITTA": "San Daniele",
+                  "DATA": "03/11/1990",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-25",
+                  "NAME": "Giuseppina D’Angela detta Giusy",
+                  "CITTA": "San Daniele",
+                  "DATA": "28/10/1981",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-26",
+                  "NAME": "Claudio Vicentini",
+                  "CITTA": ", Palmanova",
+                  "DATA": "22/08/1981",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-27",
+                  "NAME": "Roger Coianiz",
+                  "CITTA": "Bulawayo (Rhodesia",
+                  "DATA": "13/01/1965",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-28",
+                  "NAME": "Giancarlo Pillinini",
+                  "CITTA": "Tolmezzo",
+                  "DATA": "23/09/1963",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-29",
+                  "NAME": "Lodovico Galliums",
+                  "CITTA": "Remanzacco",
+                  "DATA": "20/11/1948",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-30",
+                  "NAME": "Valter Maestra",
+                  "CITTA": "Torino",
+                  "DATA": "22/05/1954",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-31",
+                  "NAME": "Cristiano Urban",
+                  "CITTA": "Udine",
+                  "DATA": "05/06/1978",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-32",
+                  "NAME": "Gianni Meneghin",
+                  "CITTA": "Moggio Udinese",
+                  "DATA": "07/05/1951",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-33",
+                  "NAME": "Lorenzo Marcolini",
+                  "CITTA": "Gonars",
+                  "DATA": "21/04/",
+                  "FIELD5": "1948"
+                },
+                {
+                  "COD": "UDI6-UD15-34",
+                  "NAME": "Massimo Brianese",
+                  "CITTA": "Udine",
+                  "DATA": "29/07/1959",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-35",
+                  "NAME": "Giuliano Covre",
+                  "CITTA": "Udine",
+                  "DATA": "28/07/1965",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-36",
+                  "NAME": "Pio Bellina",
+                  "CITTA": "Venzone",
+                  "DATA": "09/07/1942",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-37",
+                  "NAME": "Denis Roncali Polo",
+                  "CITTA": "Coseano",
+                  "DATA": "29/10/1966",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-38",
+                  "NAME": "Enrico Belluzzo",
+                  "CITTA": "Cagliari",
+                  "DATA": "25/09/1964",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-39",
+                  "NAME": "Fabiano Rosso",
+                  "CITTA": "Muzzana",
+                  "DATA": "12/10/1949",
+                  "FIELD5": ""
+                },
+                {
+                  "COD": "UDI6-UD15-40",
+                  "NAME": "Francesco Fontanini",
+                  "CITTA": "Udine",
+                  "DATA": "10/12/1965",
+                  "FIELD5": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "codsindaco": "UDI7",
+          "name": "Luca Minestrelli",
+          "liste": [
+
+             {
+              "codLista": "UDI7-UD16",
+              "nomelista": "CasaPound Italia",
+              "simbolo": "",
+              "candidati": [
+                {
+                  "COD": "UDI7-UD16-1",
+                  "NAME": "FRANCO PITTACOLO",
+                  "CITTA": "LONDRA (GB)",
+                  "DATA": "12/06/59"
+                },
+                {
+                  "COD": "UDI7-UD16-2",
+                  "NAME": "MARIA ROSSI",
+                  "CITTA": "ROMA",
+                  "DATA": "04/08/39"
+                },
+                {
+                  "COD": "UDI7-UD16-3",
+                  "NAME": "DAVIDE MANIACI",
+                  "CITTA": "UDINE",
+                  "DATA": "10/01/99"
+                },
+                {
+                  "COD": "UDI7-UD16-4",
+                  "NAME": "ANNA PIA MORANDINI",
+                  "CITTA": "MARTIGNACCO",
+                  "DATA": "14/03/58"
+                },
+                {
+                  "COD": "UDI7-UD16-5",
+                  "NAME": "FAUSTO MARTINI",
+                  "CITTA": "UDINE",
+                  "DATA": "17/11/92"
+                },
+                {
+                  "COD": "UDI7-UD16-6",
+                  "NAME": "AURORA CACCHIONI",
+                  "CITTA": "ROMA",
+                  "DATA": "07/10/96"
+                },
+                {
+                  "COD": "UDI7-UD16-7",
+                  "NAME": "DENYS ZANUTTINI",
+                  "CITTA": "PALMANOVA",
+                  "DATA": "07/10/84"
+                },
+                {
+                  "COD": "UDI7-UD16-8",
+                  "NAME": "MAIRA BEGO",
+                  "CITTA": "TOLMEZZO",
+                  "DATA": "15/08/88"
+                },
+                {
+                  "COD": "UDI7-UD16-9",
+                  "NAME": "ALESSANDRO STRIZZOLO",
+                  "CITTA": "UDINE",
+                  "DATA": "22/09/98"
+                },
+                {
+                  "COD": "UDI7-UD16-10",
+                  "NAME": "NORINA VISENTIN",
+                  "CITTA": "UDINE",
+                  "DATA": "03/07/68"
+                },
+                {
+                  "COD": "UDI7-UD16-11",
+                  "NAME": "MARCO GREATTI",
+                  "CITTA": "UDINE",
+                  "DATA": "29/10/74"
+                },
+                {
+                  "COD": "UDI7-UD16-12",
+                  "NAME": "SARA ZANIER",
+                  "CITTA": "PALMANOVA",
+                  "DATA": "28/11/96"
+                },
+                {
+                  "COD": "UDI7-UD16-13",
+                  "NAME": "ELIO CELANT",
+                  "CITTA": "CHARLEROI (B)",
+                  "DATA": "16/11/65"
+                },
+                {
+                  "COD": "UDI7-UD16-14",
+                  "NAME": "SERENA SANT",
+                  "CITTA": "UDINE",
+                  "DATA": "26/01/86"
+                },
+                {
+                  "COD": "UDI7-UD16-15",
+                  "NAME": "ANDREA D'INNOCENZO",
+                  "CITTA": "UDINE",
+                  "DATA": "31/10/84"
+                },
+                {
+                  "COD": "UDI7-UD16-16",
+                  "NAME": "LAURA BOCCOLINI",
+                  "CITTA": "TOLMEZZO",
+                  "DATA": "17/06/85"
+                },
+                {
+                  "COD": "UDI7-UD16-17",
+                  "NAME": "ENRICO NICOLO' BORTOLETTO",
+                  "CITTA": "TREVISO",
+                  "DATA": "18/12/94"
+                },
+                {
+                  "COD": "UDI7-UD16-18",
+                  "NAME": "PAMELA LIRUSSI",
+                  "CITTA": "UDINE",
+                  "DATA": "15/10/81"
+                },
+                {
+                  "COD": "UDI7-UD16-19",
+                  "NAME": "DOMENICO SGUAZZINO",
+                  "CITTA": "ROMA",
+                  "DATA": "13/05/81"
+                },
+                {
+                  "COD": "UDI7-UD16-20",
+                  "NAME": "DANIA DI GIANANTONIO",
+                  "CITTA": "TOLMEZZO",
+                  "DATA": "10/05/97"
+                },
+                {
+                  "COD": "UDI7-UD16-21",
+                  "NAME": "SEBASTIEN REVELANT",
+                  "CITTA": "BONCOURT (SVIZZERA",
+                  "DATA": "23/06/70"
+                },
+                {
+                  "COD": "UDI7-UD16-22",
+                  "NAME": "SARA CERICCO",
+                  "CITTA": "UDINE",
+                  "DATA": "16/09/78"
+                },
+                {
+                  "COD": "UDI7-UD16-23",
+                  "NAME": "ALESSANDRO BATTISTIG",
+                  "CITTA": "UDINE",
+                  "DATA": "15/11/74"
+                },
+                {
+                  "COD": "UDI7-UD16-24",
+                  "NAME": "MARA BONANNI",
+                  "CITTA": "GORIZIA",
+                  "DATA": "07/06/62"
+                },
+                {
+                  "COD": "UDI7-UD16-25",
+                  "NAME": "SIMONE LANSOTTI",
+                  "CITTA": "UDINE",
+                  "DATA": "03/05/78"
+                },
+                {
+                  "COD": "UDI7-UD16-26",
+                  "NAME": "ALEXANDRA AUGUSTIN",
+                  "CITTA": "VILLACH (A)",
+                  "DATA": "21/10/76"
+                },
+                {
+                  "COD": "UDI7-UD16-27",
+                  "NAME": "ELIA MOROCUTTI",
+                  "CITTA": "GEMONA DEL FRIULI",
+                  "DATA": "17/06/92"
+                },
+                {
+                  "COD": "UDI7-UD16-28",
+                  "NAME": "MATTEO BUTTUS",
+                  "CITTA": "GORIZIA",
+                  "DATA": "24/10/97"
+                },
+                {
+                  "COD": "UDI7-UD16-29",
+                  "NAME": "GIOVANNI MAZZULLO",
+                  "CITTA": "PISA",
+                  "DATA": "10/02/59"
+                },
+                {
+                  "COD": "UDI7-UD16-30",
+                  "NAME": "MARCO ZOL",
+                  "CITTA": "SAN VITO AL TAGLIAMENTO",
+                  "DATA": "27/03/71"
+                },
+                {
+                  "COD": "UDI7-UD16-31",
+                  "NAME": "LUCA MANTOANI",
+                  "CITTA": "UDINE",
+                  "DATA": "02/06/87"
+                },
+                {
+                  "COD": "UDI7-UD16-32",
+                  "NAME": "DANIELE PAIANI",
+                  "CITTA": "SAN DANIELE DEL FRIULI",
+                  "DATA": "17/10/95"
+                },
+                {
+                  "COD": "UDI7-UD16-33",
+                  "NAME": "BRUNO CERNO",
+                  "CITTA": "SAN VITO AL TAGLIAMENTO",
+                  "DATA": "25/01/80"
+                },
+                {
+                  "COD": "UDI7-UD16-34",
+                  "NAME": "IVAN LUCA",
+                  "CITTA": "PALMANOVA",
+                  "DATA": "30/03/72"
+                },
+                {
+                  "COD": "UDI7-UD16-35",
+                  "NAME": "ANDREA ALVERA'",
+                  "CITTA": "PIEVE DI CADORE",
+                  "DATA": "01/03/93"
+                },
+                {
+                  "COD": "UDI7-UD16-36",
+                  "NAME": "TOBIAS FIOR",
+                  "CITTA": "TOLMEZZO",
+                  "DATA": "10/07/89"
+                },
+                {
+                  "COD": "UDI7-UD16-37",
+                  "NAME": "GIANLUCA STROILI",
+                  "CITTA": "TOLMEZZO",
+                  "DATA": "24/06/95"
+                },
+                {
+                  "COD": "UDI7-UD16-38",
+                  "NAME": "MARCO PAPAIS",
+                  "CITTA": "PORTOGRUARO",
+                  "DATA": "11/06/78"
+                },
+                {
+                  "COD": "UDI7-UD16-39",
+                  "NAME": "ALEX FADI",
+                  "CITTA": "TOLMEZZO",
+                  "DATA": "31/08/86"
+                },
+                {
+                  "COD": "UDI7-UD16-40",
+                  "NAME": "ALESSANDRO VERITTI",
+                  "CITTA": "TOLMEZZO",
+                  "DATA": "20/03/91"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+<!--
+  Generated template for the AlunniPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+  <ion-navbar>
+    <ion-title>{{myscool?.indirizzo.nome}} - Classe {{myscool?.classe.nome}} Sez. {{myscool?.sezione.nome}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+  <ion-list *ngIf="isDocente === 'S' ">
+    <ion-item *ngFor="let item of mylist;let i=index" (click)="chat(item)" text-wrap>
+      <ion-row class="row_action">
+        <ion-grid>
+          <ion-row>
+            <ion-col col-9 class="nome">
+              {{item?.nome}}
+            </ion-col>
+          </ion-row>
+          <div *ngFor="let parent of parentsConfirmedList | async;let k=index">
+            <ion-row *ngIf="item?.nome === parent.studente">
+                <ion-col col-1 class="nome"></ion-col>
+                <ion-col col-8 class="nome">
+                  {{parent?.richiedente}}
+                </ion-col>
+                <ion-col col-3 class="scuola" (click)="startConversation(parent,false); $event.stopPropagation();">
+                    <ion-icon class="arrow_right" name="md-chatbubbles"></ion-icon> <br>
+                </ion-col>
+                <ion-col col-12 class="col_info"></ion-col>
+              </ion-row>
+          </div>
+        </ion-grid>
+      </ion-row>
+    </ion-item>
+  </ion-list>
+
+
+
+
+  <ion-list *ngIf="isDocente === 'N' ">
+    <ion-item *ngFor="let professore of myscool?.scuola.professori;let k=index" (click)="chat(item)" text-wrap>
+      <ion-row class="row_action">
+        <ion-grid>
+          <ion-row>
+            <ion-col col-9 class="nome">
+              {{professore?.nome}} ({{professore?.materia}})
+            </ion-col>
+
+            <ion-col col-3 class="scuola" (click)="startConversation(professore,true); $event.stopPropagation();">
+              <ion-icon class="arrow_right" name="md-chatbubbles"></ion-icon> <br>
+            </ion-col>
+            <ion-col col-12 class="col_info">
+            </ion-col>
+
+          </ion-row>
+        </ion-grid>
+      </ion-row>
+    </ion-item>
+  </ion-list>
+
+
+
+
+</ion-content>

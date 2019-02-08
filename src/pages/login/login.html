@@ -1,0 +1,73 @@
+<ion-content class="no-scroll">
+  <div padding>
+      <form [formGroup]="emailPasswordForm" padding>
+      <img class="sign_mark" src="assets/icon/mark_login.png">
+      <ion-row class="row-input">
+        <ion-row class="in_stl">
+          <ion-icon name="ios-person-outline"></ion-icon>
+          <ion-input type="email" placeholder="Email" formControlName="email" value=""></ion-input>
+        </ion-row>
+        <ion-row class="in_stl">
+          <ion-icon name="ios-lock-outline"></ion-icon>
+          <ion-input type={{pass_input_mode}} placeholder="Password" formControlName="password" value=""></ion-input>
+        </ion-row>
+        <ion-row padding class="txt1 txt_alcen">
+          <span>Resta collegato: </span>
+          <ion-checkbox placeholder="Ricorda" formControlName="check_remember" value=""></ion-checkbox>
+        </ion-row>
+
+      </ion-row>
+      <button ion-button color="primary" round class="btn btn-login" (click)="login()" >
+        Login
+      </button>
+
+      <div style="text-align:center">
+          <p>LOGIN WITH</p>
+          <button *ngIf="facebookLoginEnabled==true" ion-button color="facebook" tappable (click)="loginProvider.facebookLogin()">
+              <ion-icon name="logo-facebook"></ion-icon></button>
+          <button *ngIf="googleLoginEnabled==true" ion-button color="google" tappable (click)="loginProvider.googleLogin()">
+              <ion-icon name="logo-google"></ion-icon></button>
+          <!--button ion-button color="dark" tappable (click)="registerModel()"><ion-icon name="ios-mail-outline"></ion-icon></button-->
+          <!--button *ngIf="phoneLoginEnabled==true" ion-button color="dark" tappable (click)="loginProvider.phoneLogin()"><ion-icon name="phone-portrait"></ion-icon></button-->
+      </div>
+      <ion-row padding>
+          <p class="txt1" (click)="forgotPassword()">Non ricordo la password</p>
+      </ion-row>
+      <ion-row padding>
+        <p class="txt1" (click)="registerModel()">Non sei registrato? <span class="bold_">Registrati</span></p>
+      </ion-row>
+      <ion-row padding>
+        <p class="txt1 txt_alcen" >Ver. <span class="bold_">{{version}}</span></p>
+      </ion-row>
+
+
+
+
+
+
+      <!--div style="padding-top:10%">
+        <div class="app-icon">
+          <ion-icon name="ios-chatbubbles-outline"></ion-icon>
+          <h3>Chat App</h3>
+        </div>
+        <ion-list inset>
+          <form [formGroup]="emailPasswordForm">
+            <ion-item>
+              <ion-input type="text" formControlName="email" placeholder="Email address"></ion-input>
+            </ion-item>
+            <ion-item>
+              <ion-input type="password" formControlName="password" placeholder="Password"></ion-input>
+              <button item-right ion-button clear color="gray" (click)="forgotPassword()" >Forgot ?</button>
+            </ion-item>
+            <div>
+              <button ion-button color="dark" block tappable (click)="login()" [disabled]="!emailPasswordForm.valid">Login</button>
+
+            </div>
+          </form>
+        </ion-list>
+      </div-->
+      </form>
+  </div>
+  
+  
+</ion-content>

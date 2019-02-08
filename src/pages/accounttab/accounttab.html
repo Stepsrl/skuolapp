@@ -1,0 +1,113 @@
+<!--
+  Generated template for the AccounttabPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Account
+      <!--<p >{{userData?.displayName}}</p>
+      <p >{{userData?.email}}</p>
+    -->
+    </ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <ion-list >
+    <!--ion-item  text-wrap>
+      <ion-row class="row_action" >
+        <ion-grid>
+          <ion-row (click)="shownewcreatepass()">
+            <ion-col col-9>
+              <p class="itm_title">{{userData?.displayName}}</p>
+              <p class="itm_name">{{userData?.email}}</p>
+
+            </ion-col>
+            <ion-col col-3 >
+
+              <ion-icon class="arrow_right"  name="ios-key" ></ion-icon>
+
+            </ion-col>
+          </ion-row>
+
+        </ion-grid>
+      </ion-row>
+    </ion-item-->
+    <ion-item  text-wrap>
+      <ion-row class="row_action" >
+        <ion-grid>
+          <ion-row (click)="shownewcreatepass()">
+            <ion-col col-9>
+              <p class="itm_title">Cambia Password</p>
+            </ion-col>
+            <ion-col col-3>
+              <ion-icon class="arrow_right"  name="ios-key"></ion-icon>
+            </ion-col>
+          </ion-row>
+        </ion-grid>
+      </ion-row>
+    </ion-item>
+    <ion-item  text-wrap>
+      <ion-row class="row_action" >
+        <ion-grid>
+          <ion-row (click)="logout()">
+            <ion-col col-9>
+              <p class="itm_title">Disconnetti Utente</p>
+
+            </ion-col>
+            <ion-col col-3>
+
+
+              <ion-icon class="arrow_right"  name="log-out" ></ion-icon>
+
+            </ion-col>
+          </ion-row>
+
+        </ion-grid>
+      </ion-row>
+    </ion-item>
+    <ion-item  text-wrap>
+      <ion-row class="row_action" >
+        <ion-grid>
+          <ion-row (click)="about()">
+            <ion-col col-9>
+              <p class="itm_title">About Skuolapp</p>
+
+            </ion-col>
+            <ion-col col-3>
+
+
+              <ion-icon class="arrow_right"  name="ios-arrow-forward"></ion-icon>
+
+            </ion-col>
+          </ion-row>
+
+        </ion-grid>
+      </ion-row>
+    </ion-item>
+    <ion-item  text-wrap>
+      <ion-row class="row_action" >
+        <ion-grid>
+          <ion-row (click)="privacy()">
+            <ion-col col-9>
+              <p class="itm_title">Privacy</p>
+
+            </ion-col>
+            <ion-col col-3>
+
+
+              <ion-icon class="arrow_right"  name="ios-arrow-forward" ></ion-icon>
+
+            </ion-col>
+          </ion-row>
+
+        </ion-grid>
+      </ion-row>
+    </ion-item>
+  </ion-list>
+</ion-content>

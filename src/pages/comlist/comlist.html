@@ -1,0 +1,159 @@
+<!--
+  Generated template for the ComlistPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+    <ion-navbar>
+        <ion-icon *ngIf="!uid.startsWith('DDD-')" class="arrow_right" name="ios-add-circle-outline" (click)="addList()">&nbsp;&nbsp;&nbsp;</ion-icon>
+        <ion-title>
+            Le tue Skuole
+        </ion-title>
+    </ion-navbar>
+</ion-header>
+<ion-content padding>
+    <ion-list>
+        <!--sezione contenente le classi in pending-->
+        <ion-item-group *ngIf="!uid.startsWith('DDD-')">
+        <ion-row class="row_action" *ngIf="(list!==undefined && list !== null && list.length > 0)">
+            <ion-grid>
+                <ion-row>
+                </ion-row>
+                <ion-row>
+                    <ion-col col-12 class="nome">
+                        Classi in Approvazione
+                    </ion-col>
+                </ion-row>
+            </ion-grid>
+        </ion-row>
+        <ion-item *ngFor="let item of list;let i=index" text-wrap>
+            <ion-row class="row_action">
+                <ion-grid>
+                    <ion-row>
+                        <ion-col col-9 class="nome">
+                            {{item?.scuola.nome}}
+
+                        </ion-col>
+                        <ion-col col-3 class="nome">
+                            <ion-icon class="arrow_right" (click)="removePref(item)" name="trash"></ion-icon>
+                            <!--
+                            <ion-icon *ngIf="item.stato === 'friend'" class="arrow_right" (click)="removePref(item)"
+                                      name="ios-remove-circle-outline"></ion-icon>
+                            -->
+                        </ion-col>
+                        <ion-col col-9 class="col_info">
+                            {{item?.indirizzo.nome}}
+                            <span *ngIf="item.sezione.name === 'M'">(MASTER)</span>
+                            <span *ngIf="item.sezione.name !== 'M' && item.sezione.name !== 'V' ">(Classe
+                                {{item?.classe.nome}} {{item?.sezione.nome}})</span>
+                        </ion-col>
+
+                        <!--ion-col col-9 class="nome" (click)="selCom(item)">
+                            {{item?.elezione.replace("_"," ")}} {{item?.comune.name}}
+                            <span *ngIf="item.comune.sezione === 'M'">(MASTER)</span>
+                            <span *ngIf="item.comune.sezione !== 'M' && item.comune.sezione !== 'V' ">(Sez. {{item?.comune.sezione}})</span>
+                        </ion-col>
+                        <ion-col col-3 class="voti">
+                            <ion-icon  (click)="azzera(item)"
+                                      name="ios-color-filter" *ngIf="(item.displayName===undefined || item.displayName === null && item.displayName.length < 1)"></ion-icon>
+                            <ion-icon class="arrow_right" (click)="removePref(item)"
+                                      name="ios-remove-circle-outline"></ion-icon>
+                        </ion-col>
+                        <ion-col col-12 class="col_info" *ngIf="(item.displayName===undefined || item.displayName === null && item.displayName.length < 1)">
+
+                        </ion-col>
+                        <ion-col col-12 class="col_info" *ngIf="(item.displayName!==undefined && item.displayName !== null && item.displayName.length > 0)">
+                            {{item?.displayName}}
+                        </ion-col-->
+                    </ion-row>
+                    <ion-row>
+                    </ion-row>
+                </ion-grid>
+            </ion-row>
+        </ion-item>
+
+        <!--sezione contenente le classi confermate-->
+        <ion-row class="row_action" *ngIf="(listConfirmed!==undefined && listConfirmed !== null && listConfirmed.length > 0)">
+            <ion-grid>
+                <ion-row>
+                </ion-row>
+                <ion-row>
+                    <ion-col col-12 class="nome">
+                        Classi Personali
+                    </ion-col>
+                </ion-row>
+            </ion-grid>
+        </ion-row>
+
+        <ion-item *ngFor="let item of listConfirmed;let i=index" text-wrap>
+            <ion-row class="row_action">
+                <ion-grid>
+
+                    <ion-row>
+                        <ion-col col-9 class="nome" (click)="selCom(item)">
+                            {{item?.scuola.nome}}
+
+                        </ion-col>
+                        <ion-col col-3 class="nome">
+
+                        </ion-col>
+                        <ion-col col-9 class="col_info">
+                            {{item?.indirizzo.nome}}
+                            <span *ngIf="item.sezione.name === 'M'">(MASTER)</span>
+                            <span *ngIf="item.sezione.name !== 'M' && item.sezione.name !== 'V' ">(Classe
+                                {{item?.classe.nome}} {{item?.sezione.nome}})</span>
+                        </ion-col>
+                    </ion-row>
+                </ion-grid>
+            </ion-row>
+        </ion-item>
+        </ion-item-group>
+        <!--sezione contenente le classi aseegnate al docente-->
+        <ion-row class="row_action" *ngIf="(mylist!==undefined && mylist !== null && mylist.length > 0)">
+            <ion-grid>
+                <ion-row>
+                </ion-row>
+                <ion-row>
+                    <ion-col col-12 class="nome">
+                        Classi Assegnate al Docente
+                    </ion-col>
+                </ion-row>
+            </ion-grid>
+        </ion-row>
+
+        <ion-item *ngFor="let item of mylist;let i=index" text-wrap>
+            <ion-row class="row_action">
+                <ion-grid>
+
+                    <ion-row>
+                        <ion-col col-9 class="nome" (click)="selCom(item)">
+                            {{item?.scuola.nome}}
+
+                        </ion-col>
+                        <ion-col col-3 class="nome">
+
+                        </ion-col>
+                        <ion-col col-9 class="col_info">
+                            {{item?.indirizzo.nome}}
+                            <span *ngIf="item.sezione.name === 'M'">(MASTER)</span>
+                            <span *ngIf="item.sezione.name !== 'M' && item.sezione.name !== 'V' ">(Classe
+                                {{item?.classe.nome}} {{item?.sezione.nome}})</span>
+                        </ion-col>
+                    </ion-row>
+                    <!--ion-row>
+                        <ion-col col-9 class="nome" (click)="selCom(item)">
+                            {{item?.elezione.replace("_"," ")}} {{item?.comune.name}}
+                            <span *ngIf="item.comune.sezione === 'M'">(MASTER)</span>
+                            <span *ngIf="item.comune.sezione !== 'M'">(Sez. {{item?.comune.sezione}})</span>
+                        </ion-col>
+
+                        <ion-col col-12 class="col_info">
+                            Assegnato {{item?.displayName}}
+                        </ion-col>
+                    </ion-row-->
+                </ion-grid>
+            </ion-row>
+        </ion-item>
+    </ion-list>
+</ion-content>

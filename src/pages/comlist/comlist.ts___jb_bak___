@@ -1,0 +1,279 @@
+import { Component , ViewChild} from '@angular/core';
+import {  NavController, NavParams , AlertController, LoadingController, Content} from 'ionic-angular';
+//import { SindaciPage } from '../sindaci/sindaci';
+import firebase from 'firebase';
+import { SelelezPage } from '../selelez/selelez';
+
+import { MenuclassePage } from '../menuclasse/menuclasse';
+
+/**
+ * Generated class for the ComlistPage page.
+ *
+ * See https://ionicframework.com/docs/components/#navigation for more info on
+ * Ionic pages and navigation.
+ */
+
+
+@Component({
+
+  selector: 'page-comlist',
+  templateUrl: 'comlist.html',
+})
+export class ComlistPage {
+  @ViewChild(Content) content: Content;
+  private list: any;
+  private mylist: any;
+  firedata = firebase.database().ref('/voti');
+  constructor(public navCtrl: NavController, public alertCtrl: AlertController,public loadingCtrl: LoadingController, public navParams: NavParams) {
+    this.list = [];
+    this.mylist = [];
+    var lista = localStorage.getItem(firebase.auth().currentUser.uid+'-ScomData');
+
+      this.list = JSON.parse(lista);
+
+    //console.log("---:"+JSON.stringify(this.list));
+  }
+
+  ionViewDidLoad() {
+    console.log('ionViewDidLoad ComlistPage');
+    var lista = localStorage.getItem(firebase.auth().currentUser.uid+'-ScomData');
+    this.list = JSON.parse(lista);
+
+   // this.loadServer();
+    //  var lista = localStorage.getItem(firebase.auth().currentUser.uid+'-ScomData');
+   // this.list = JSON.parse(lista);
+  }
+
+  ionViewWillEnter(){
+    this.content.resize();
+    console.log('ionViewWillEnter ComlistPage');
+    var lista = localStorage.getItem(firebase.auth().currentUser.uid+'-ScomData');
+    this.list = JSON.parse(lista);
+
+  //  console.log("lista scuole:"+JSON.stringify(this.list));
+
+    this.loadServer();
+
+  }
+
+  ionViewWillLeave() {
+    console.log('ionViewWillLeave ComlistPage');
+    firebase.database().ref('/assigns').child(firebase.auth().currentUser.uid).off();
+  }
+
+  selCom(item) {
+    firebase.database().ref('/assigns').child(firebase.auth().currentUser.uid).off();
+    this.navCtrl.push(MenuclassePage, {"scuola": item});
+
+
+
+  }
+
+  addList() {
+    console.log("seleziona page");
+    firebase.database().ref('/assigns').child(firebase.auth().currentUser.uid).off();
+    this.navCtrl.push(SelelezPage);
+  }
+  removePref(item) {
+    //console.log("rimuovi:" + JSON.stringify(item));
+    //richiedere conferma
+    let createnewpass = this.alertCtrl.create({
+      title: 'Elimina',
+      message: "Verranno eliminati tutti i dati!!!",
+      buttons: [
+        {
+          text: 'Elimina',
+          handler: data => {
+            //console.log("rimuovi:" + JSON.stringify(item));
+            //cerca nella lista quello da elimianre e salva
+            for (let i = 0; i < this.list.length; i++) {
+             // console.log("Cerca:" + JSON.stringify(this.list[i]) );
+              if (this.list[i].elezione === item.elezione && this.list[i].code === item.code && this.list[i].comune.sezione === item.comune.sezione) {
+                //elimina
+                this.list.splice(i, 1);
+                //console.log("Lista 2:" + JSON.stringify(this.list));
+                localStorage.setItem(firebase.auth().currentUser.uid+'-ScomData', JSON.stringify(this.list));
+                return;
+              }
+            }
+            localStorage.setItem(firebase.auth().currentUser.uid+'-ScomData', JSON.stringify(this.list));
+          }
+        },
+        {
+          text: 'Annulla',
+          handler: data => {
+
+          }
+        }
+      ]
+    });
+
+    createnewpass.present();
+      //this.barlists.push({body: this.reqserve.myrecieptrequ[i], req_state: 2})
+    }
+  azzera(item) {
+     //console.log("azzera:" + JSON.stringify(item));
+    //richiedere conferma
+    let createnewpass = this.alertCtrl.create({
+      title: 'Azzera',
+      message: "Verranno azzerati tutti i dati!!!",
+      buttons: [
+        {
+          text: 'Azzera',
+          handler: data => {
+            //console.log("rimuovi:" + JSON.stringify(item));
+            var cod = item.elezione+"-"+item.code;
+            //console.log("val3:"+val);
+            /*var dBRef =this.firedata.ref(firebase.auth().currentUser.uid+"/"+cod+"/"+item.comune.sezione+"/sindaci");
+            dBRef.once('value', snpsht=>{
+              snpsht.forEach(dp =>{
+                var key = dp.key;
+                dB.ref('posts/' +  key + '/PostDescription2').set(null);
+              })
+            })*/
+
+            var updatedUserData = {};
+            var promise = new Promise((resolve, reject) => {
+
+
+
+              if (item.comune.sezione !== 'M') {
+                var dBRef =this.firedata.child(firebase.auth().currentUser.uid +"/"+cod+"/" + item.comune.sezione + "/sindaci");
+                dBRef.once('value', snpsht=>{
+                  if (snpsht && snpsht !== undefined && snpsht != null && snpsht.val() ) {
+
+                    snpsht.forEach(dp => {
+                      var key = dp.key;
+                      updatedUserData[firebase.auth().currentUser.uid + "/" + cod + "/sindaci/" + key + "/" + item.comune.sezione] = null;
+                      return true;
+                    })
+
+                  }
+
+                })
+
+                dBRef =this.firedata.child(firebase.auth().currentUser.uid +"/"+cod+"/" + item.comune.sezione + "/liste");
+                dBRef.once('value', snpsht=>{
+                  if (snpsht && snpsht !== undefined && snpsht != null && snpsht.val() ) {
+                    snpsht.forEach(dp => {
+                      var key = dp.key;
+                      updatedUserData[firebase.auth().currentUser.uid + "/" + cod + "/liste/" + key + "/" + item.comune.sezione] = null;
+                      return true;
+                    })
+                  }
+
+                })
+                 dBRef =this.firedata.child(firebase.auth().currentUser.uid +"/"+cod+"/" + item.comune.sezione + "/candidati");
+                dBRef.once('value', snpsht=>{
+                  if (snpsht && snpsht !== undefined && snpsht != null && snpsht.val() ) {
+                    snpsht.forEach(dp => {
+                      var key = dp.key;
+                      updatedUserData[firebase.auth().currentUser.uid + "/" + cod + "/candidati/" + key + "/" + item.comune.sezione] = null;
+                      return true;
+                    })
+                  }
+
+                })
+
+              }
+              if (item.comune.sezione === 'M') {
+                updatedUserData[firebase.auth().currentUser.uid+"/"+cod] = null;
+              } else {
+
+                updatedUserData[firebase.auth().currentUser.uid + "/" + cod + "/" + item.comune.sezione] = null;
+              }
+              // this.firedata = firebase.database(this.app2).ref('/voti');
+              // Do a deep-path update
+              this.firedata.update(updatedUserData).then(()=> {
+                // this.events.publish('friends');
+                // console.log("update");
+                resolve(true);
+              }), ((err) => {
+                //console.log("errore");
+                reject(err);
+              })
+            });
+            return promise;
+
+
+          }
+        },
+        {
+          text: 'Annulla',
+          handler: data => {
+
+          }
+        }
+      ]
+    });
+
+    createnewpass.present();
+    //this.barlists.push({body: this.reqserve.myrecieptrequ[i], req_state: 2})
+  }
+  loadServer(){
+
+
+    this.mylist = [];
+    //let friendsuid = [];
+
+    firebase.database().ref('/assigns').child(firebase.auth().currentUser.uid).on('value', (snapshot) => {
+      let loading = this.loadingCtrl.create({
+        content: "Please Wait..."
+      });
+      loading.present();
+      if (snapshot) {
+        this.mylist = [];
+        //    let allfriends = snapshot.val();
+//console.log(snapshot);
+        snapshot.forEach( (childsnap) => {
+          //if (childsnap)
+          // console.log("assigns--:" + JSON.stringify(childsnap));
+          if (childsnap) {
+            let name = childsnap.val().displayName;
+            let master = "";
+            let req = JSON.parse(childsnap.val().lista);
+            // console.log("assigns-2-:" + JSON.stringify(req));
+            if (childsnap.val().master === firebase.auth().currentUser.uid) {
+              name = " a "+name;
+              master = childsnap.val().master;
+            } else {
+              name = " da "+name;
+              master = childsnap.val().master;
+            }
+            req.forEach( r => {
+              r.displayName = name;
+              r.master = master;
+              // console.log("assigns-3-:" + JSON.stringify(r));
+              //if (r.user === firebase.auth().currentUser.uid){
+                this.mylist.push(r);
+             // }
+
+            });
+           //  console.log("assigns-4-:" + JSON.stringify(this.mylist));
+            // this.mylist = req;
+
+          }
+
+          this.mylist.sort(this.compare);
+          // this.events.publish('friends');
+          // this.myrequests.push(req);
+
+          return false;
+        });
+        loading.dismiss();
+      }
+    });
+  }
+
+
+   compare(a,b) {
+  if (parseInt(a.comune.sezione) < parseInt(b.comune.sezione))
+    return -1;
+  if (parseInt(a.comune.sezione) > parseInt(b.comune.sezione))
+    return 1;
+  return 0;
+}
+
+
+
+  }

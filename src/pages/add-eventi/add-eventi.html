@@ -1,0 +1,32 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Nuovo Evento</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <ion-list margin margin-bottom>
+    <ion-item class="border-bottom"> 
+      <ion-label floating>Titolo</ion-label>
+      <ion-input type="text" name="title" [(ngModel)]="title"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label floating>Data</ion-label>
+      <ion-datetime displayFormat="DD MM YYYY" pickerFormat="DD MM YYYY" [(ngModel)]="date"></ion-datetime>
+    </ion-item>
+    <ion-item>
+      <ion-label floating>Ora</ion-label>
+      <ion-datetime displayFormat="HH:mm" pickerFormat="HH:mm" [(ngModel)]="hour"></ion-datetime>
+    </ion-item>
+    <ion-item class="border-bottom"> 
+      <ion-label floating>Costo</ion-label>
+      <ion-input type="number" name="costo" [(ngModel)]="costo"></ion-input>
+    </ion-item>
+    <ion-item></ion-item>
+  </ion-list>
+
+  <button ion-button color="primary" round class="btn btn-login" (click)="saveEvent()" [disabled]="!title || !date || !hour || !costo">{{buttonTitle}}</button>
+</ion-content>

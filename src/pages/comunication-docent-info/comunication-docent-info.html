@@ -1,0 +1,24 @@
+<ion-header>
+
+    <ion-navbar>
+      <ion-title>{{comunicazione.titolo}}</ion-title>
+    </ion-navbar>
+  
+  </ion-header>
+  
+  <ion-content padding>
+    Data attività: {{comunicazione.data}} <br>
+  
+    <ion-item *ngFor="let confirmedComunication of comunicazioniConfermate | async" text-wrap no-lines>
+      <ion-card class="backgroundGreen">
+        <ion-card-header>
+          <p>{{confirmedComunication.nome_studente}}</p>
+        </ion-card-header>
+  
+        <ion-card-content>
+          <p>Genitore: {{confirmedComunication.nome_genitore}}</p>
+          <p>Data di conferma: {{confirmedComunication.data}}</p>
+        </ion-card-content>
+      </ion-card>
+    </ion-item>
+  </ion-content>
